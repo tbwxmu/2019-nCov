@@ -1,0 +1,1035 @@
+Num.,Cpd.,structure,Smilies,Ki,reference,
+1,JMF 1586,,OC(CC1C(O[Zn]2(OC(C(CC(O)=O)N2)=O)N1)=O)=O,0.05¦ÌM,"Lee CC, Kuo CJ, Hsu MF, Liang PH, Fang JM, Shie JJ, Wang AH:
+Structural basis of mercury- and zinc-conjugated complexes
+as SARS-CoV 3C-like protease inhibitors. FEBS Lett 2007,
+581:5454-5458.",
+2,(2S¡¢3 R¡¢4 R¡¢5 S)-2£¬5-Bis(Nbenzyloxycarbonyl-L-Ala-L-Val)-3£¬4dihydroxy-1£¬6-di(3indolyl)hexane,,O[C@@H](C([C@@H](NN[C@@H](C(C)C)C(N[C@@H](C)C(C(OCC1=CC=CC=C1)=O)=O)=O)C2=CNC3=C2C=CC=C3)O)[C@@H](NN[C@@H](C(C)C)C(N[C@@H](C)C(C(OCC4=CC=CC=C4)=O)=O)=O)CC5=CNC6=C5C=CC=C6,0.8¦ÌM,"Shao YM, Yang WB, Peng HP, Hsu MF, Tsai KC, Kuo TH,
+Wang AH, Liang PH, Lin CH, Yang AS et al.: Structure-based
+design and synthesis of highly potent SARS-CoV 3CL protease
+inhibitors. Chembiochem 2007, 8:1654-1657.",
+3,(S)-N-(1-((2-chloro-4-nitrophenyl)amino)-1-oxo-3-phenylpropan-2-yl)-4-(dimethylamino)benzamide,,O=[N+](C1=CC(Cl)=C(C=C1)NC([C@H](CC2=CC=CC=C2)NC(C3=CC=C(N(C)C)C=C3)=O)=O)[O-],0.03  ¦ÌM,"J. Med. Chem. 2005, 48, 13, 4469-4473",
+4,"1H-benzo[d][1,2,3]triazol-1-yl 1H-indole-5-carboxylate",,O=C(ON1N=NC2=CC=CC=C12)C3=CC4=C(NC=C4)C=C3,7.5 nM ,"Wu CY, King KY, Kuo CJ, Fang JM, Wu YT, Ho MY, Liao CL,
+Shie JJ, Liang PH, Wong CH: Stable benzotriazole esters as
+mechanism-based inactivators of the severe acute respiratory
+syndrome 3CL protease. Chem Biol 2006, 13:261-268.",
+5,3-((1-(4-(benzyloxy)phenyl)-1H-tetrazol-5-yl)thio)-4-methoxyquinolin-2(1H)-one,,O=C1C(SC2=NN=NN2C3=CC=C(OCC4=CC=CC=C4)C=C3)=C(OC)C5=CC=CC=C5N1,2  ¦ÌM,"Ramajayam R, Tan KP, Liu HG, Liang PH: Synthesis and
+evaluation of pyrazolone compounds as SARS-coronavirus
+3C-like protease inhibitors. Bioorg Med Chem 2010, 18:7849-
+7854.",
+6,"benzyl ((2S)-1-(((2S)-3-methyl-1-(((2S)-4-methyl-1-oxo-1-((4,4,4-trifluoro-3-oxo-1-phenylbutan-2-yl)amino)pentan-2-yl)amino)-1-oxobutan-2-yl)amino)-1-oxopropan-2-yl)carbamate",,O=C(N[C@@H](C)C(N[C@@H](C(C)C)C(N[C@H](C(NC(CC1=CC=CC=C1)C(C(F)(F)F)=O)=O)CC(C)C)=O)=O)OCC2=CC=CC=C2,300 nM,"Shao YM, Yang WB, Kuo TH, Tsai KC, Lin CH, Yang AS, Liang PH,
+Wong CH: Design, synthesis, and evaluation of trifluoromethyl
+ketones as inhibitors of SARS-CoV 3CL protease. Bioorg Med
+Chem 2008, 16:4652-4660.",
+7,"cyclohexylmethyl (3S,6S,9S,12R)-9-isobutyl-6-isopropyl-3-methyl-1-(5-methylisoxazol-3-yl)-1,4,7,10-tetraoxo-12-(((S)-2-oxopyrrolidin-3-yl)methyl)-2,5,8,11-tetraazapentadecan-15-oate",,CC1=CC(C(N[C@@H](C)C(N[C@@H](C(C)C)C(N[C@@H](CC(C)C)C(N[C@@H](C[C@@H]2CCNC2=O)CCC(OCC3CCCCC3)=O)=O)=O)=O)=O)=NO1,IC50 : 0.28 ¡À 0.02 ¦Ìmol/L.,"Protein Cell 2013, 4(4): 248¨C250
+DOI 10.1007/s13238-013-2841-3",
+8,"6-(((1H-3l4-thiazolo[5,4-b]pyridin-2-yl)sulfinyl)methyl)-4-methoxy-2H-pyran-2-one",,O=S(CC(O1)=CC(OC)=CC1=O)C2=SC3=NC=CC=C3N2,IC50 :7.2 ¡À 0.7  ¦Ìmol,"Kuo CJ, Liu HG, Lo YK, Seong CM, Lee KI, Jung YS, Liang PH:
+Individual and common inhibitors of coronavirus and
+picornavirus main proteases. FEBS Lett 2009, 583:549-555",
+9,"5,7-dichloro-4-hydroxy-3-((1-(4-hydroxyphenyl)-1H-tetrazol-5-yl)thio)quinolin-2(1H)-one",,OC(C=C1)=CC=C1N2C(SC3=C(O)C4=C(Cl)C=C(Cl)C=C4NC3=O)=NN=N2,IC50 :10.6?¡À?1.3¦Ìmol,"Kuo CJ, Liu HG, Lo YK, Seong CM, Lee KI, Jung YS, Liang PH:
+Individual and common inhibitors of coronavirus and
+picornavirus main proteases. FEBS Lett 2009, 583:549-555",
+10,"2-benzyl-2H-isoindole-4,7-dione",,O=C(C=C1)C2=CN(CC3=CC=CC=C3)C=C2C1=O,IC50 :7.0?¡À?0.8¦Ìmol,"Kuo CJ, Liu HG, Lo YK, Seong CM, Lee KI, Jung YS, Liang PH:
+Individual and common inhibitors of coronavirus and
+picornavirus main proteases. FEBS Lett 2009, 583:549-555",
+11,4-(((2-methoxyphenyl)imino)methyl)-2-phenyloxazol-5-yl acetate,,CC(OC1=C(C=NC2=CC=CC=C2OC)N=C(O1)C3=CC=CC=C3)=O,IC50 :3.3 ¡À 0.2¦Ìmol,"Kuo CJ, Liu HG, Lo YK, Seong CM, Lee KI, Jung YS, Liang PH:
+Individual and common inhibitors of coronavirus and
+picornavirus main proteases. FEBS Lett 2009, 583:549-555",
+12,"1-butyl-N-(4-(3,5-diphenyl-4,5-dihydro-1H-pyrazol-1-yl)benzyl)-1H-benzo[d]imidazol-2-amine",,CCCCN1C(NCC(C=C2)=CC=C2N3C(C4=CC=CC=C4)CC(C5=CC=CC=C5)=N3)=NC6=C1C=CC=C6,IC50 :8.1?¡À?0.9¦Ìmol,"Kuo CJ, Liu HG, Lo YK, Seong CM, Lee KI, Jung YS, Liang PH:
+Individual and common inhibitors of coronavirus and
+picornavirus main proteases. FEBS Lett 2009, 583:549-555",
+13,"N-(4-(3,5-diphenyl-4,5-dihydro-1H-pyrazol-1-yl)benzyl)-1-propyl-1H-benzo[d]imidazol-2-amine",,CCCN1C(C=CC=C2)=C2N=C1NCC(C=C3)=CC=C3N4C(C5=CC=CC=C5)CC(C6=CC=CC=C6)=N4,IC50 :8.0?¡À?0.5¦Ìmol,"Kuo CJ, Liu HG, Lo YK, Seong CM, Lee KI, Jung YS, Liang PH:
+Individual and common inhibitors of coronavirus and
+picornavirus main proteases. FEBS Lett 2009, 583:549-555",
+14,"N-(4-(3,5-diphenyl-4,5-dihydro-1H-pyrazol-1-yl)benzyl)-1-ethyl-1H-benzo[d]imidazol-2-amine",,CCN1C(C=CC=C2)=C2N=C1NCC(C=C3)=CC=C3N4C(C5=CC=CC=C5)CC(C6=CC=CC=C6)=N4,IC50 :8.4?¡À?0.2¦Ìmol,"Kuo CJ, Liu HG, Lo YK, Seong CM, Lee KI, Jung YS, Liang PH:
+Individual and common inhibitors of coronavirus and
+picornavirus main proteases. FEBS Lett 2009, 583:549-555",
+15,"3-(4-bromophenyl)-5-(4-chlorophenyl)-1-(3,4-dichlorophenyl)-4-(1H-imidazol-1-yl)-4,5-dihydro-1H-pyrazole",,ClC(C=C1)=C(Cl)C=C1N2N=C(C3=CC=C(Br)C=C3)C(N4C=CN=C4)C2C5=CC=C(Cl)C=C5,IC50 :2.5?¡À?0.2¦Ìmol,"Kuo CJ, Liu HG, Lo YK, Seong CM, Lee KI, Jung YS, Liang PH:
+Individual and common inhibitors of coronavirus and
+picornavirus main proteases. FEBS Lett 2009, 583:549-555",
+16,"1-(3-(3-iodophenyl)-7-methoxy-3,3a,4,5-tetrahydro-2H-benzo[g]indazol-2-yl)ethan-1-one",,IC1=CC(C2N(C(C)=O)N=C3C4=CC=C(OC)C=C4CCC32)=CC=C1,IC50 :9.8?¡À?0.8¦Ìmol,"Kuo CJ, Liu HG, Lo YK, Seong CM, Lee KI, Jung YS, Liang PH:
+Individual and common inhibitors of coronavirus and
+picornavirus main proteases. FEBS Lett 2009, 583:549-555",
+17,Phenylmercuric acetate,,CC([O-][Hg+]C1=CC=CC=C1)=O,0.7?¡À?0.3¦Ìmol,"Hsu JT, Kuo CJ, Hsieh HP, Wang YC, Huang KK, Lin CP,
+Huang PF, Chen X, Liang PH: Evaluation of metal-conjugated
+compounds as inhibitors of 3CL protease of SARS-CoV. FEBS
+Lett 2004, 574:116-120.",
+18,Thimerosal,,CC[Hg]SC1=CC=CC=C1C(O[Na])=O,2.4?¡À?0.2¦Ìmol,"Hsu JT, Kuo CJ, Hsieh HP, Wang YC, Huang KK, Lin CP,
+Huang PF, Chen X, Liang PH: Evaluation of metal-conjugated
+compounds as inhibitors of 3CL protease of SARS-CoV. FEBS
+Lett 2004, 574:116-120.",
+19,Hexachlorophene,,ClC1=C(Cl)C=C(Cl)C(O)=C1CCCC2=C(Cl)C(Cl)=CC(Cl)=C2O,13.7?¡À?0.4¦Ìmol,"Hsu JT, Kuo CJ, Hsieh HP, Wang YC, Huang KK, Lin CP,
+Huang PF, Chen X, Liang PH: Evaluation of metal-conjugated
+compounds as inhibitors of 3CL protease of SARS-CoV. FEBS
+Lett 2004, 574:116-120.",
+20,Phenylmercuric nitrate?,,[O-][N+]([O-][Hg+]C1=CC=CC=C1)=O,0.3?¡À?0.3¦Ìmol,"Hsu JT, Kuo CJ, Hsieh HP, Wang YC, Huang KK, Lin CP,
+Huang PF, Chen X, Liang PH: Evaluation of metal-conjugated
+compounds as inhibitors of 3CL protease of SARS-CoV. FEBS
+Lett 2004, 574:116-120.",
+21,bis((1-oxidopyridin-2-yl)thio)zinc,,[O-][N+]1=CC=CC=C1S[Zn]SC2=CC=CC=[N+]2[O-],0.17?¡À?0.07¦Ìmol,"Hsu JT, Kuo CJ, Hsieh HP, Wang YC, Huang KK, Lin CP,
+Huang PF, Chen X, Liang PH: Evaluation of metal-conjugated
+compounds as inhibitors of 3CL protease of SARS-CoV. FEBS
+Lett 2004, 574:116-120.",
+22,N-Ethyl-N-phenyldithiocarbamic acid zinc?,,S=C([SH-][Zn+2][SH-]C(N(CC)C1=CC=CC=C1)=S)N(CC)C2=CC=CC=C2,1.0?¡À?0.1¦Ìmol,"Hsu JT, Kuo CJ, Hsieh HP, Wang YC, Huang KK, Lin CP,
+Huang PF, Chen X, Liang PH: Evaluation of metal-conjugated
+compounds as inhibitors of 3CL protease of SARS-CoV. FEBS
+Lett 2004, 574:116-120.",
+23,"Toluene-3,4-dithiolato zinc?",,CC1=CC2=C(S[Zn]S2)C=C1,1.4?¡À?0.2¦Ìmol,"Hsu JT, Kuo CJ, Hsieh HP, Wang YC, Huang KK, Lin CP,
+Huang PF, Chen X, Liang PH: Evaluation of metal-conjugated
+compounds as inhibitors of 3CL protease of SARS-CoV. FEBS
+Lett 2004, 574:116-120.",
+24,"dibenzyl ((2S,5S,8S,9R,10R,11S,14S,17S)-8,11-dibenzyl-9,10-dihydroxy-5,14-diisopropyl-3,6,13,16-tetraoxo-4,7,12,15-tetraazaoctadecane-2,17-diyl)dicarbamate",,O=C(N[C@@H](C)C(N[C@@H](C(C)C)C(N[C@@H](CC1=CC=CC=C1)[C@@H](O)[C@@H]([C@H](CC2=CC=CC=C2)NC([C@H](C(C)C)NC([C@H](C)NC(OCC3=CC=CC=C3)=O)=O)=O)O)=O)=O)OCC4=CC=CC=C4,0.6¦Ìmol,"Wu, C.Y., Jan, J.T., Ma, H.H., Kuo, C.J., Juan, H.F., Cheng, Y.S., Hsu, H.H.,
+Wu, D., Brik, A., Liu, R.S. et al. (2004) Small molecules targeting severe
+acute respiratory syndrome (SARS) human coronavirus. Proc. Natl. Acad.
+Sci. U.S.A. 101, 10012¨C10017",
+25,"N-(3,5-dichlorophenyl)-2-((4-(2-phenylthiazol-4-yl)pyrimidin-2-yl)thio)acetamide",,ClC1=CC(NC(CSC2=NC=CC(C3=CSC(C4=CC=CC=C4)=N3)=N2)=O)=CC(Cl)=C1,IC50=3¦Ìmol,"Tsai, K.C., Chen, S.Y., Liang, P.H., Luo, I.L., Mahindroo, N., Hsieh, S.P.,
+Chao, Y.S., Lien, W., Lin, T.H. and Wu, S.Y. (2006) Discovery of a novel
+family of SARS-CoV protease inhibitors by virtual screening and 3D-QSAR
+studies. J. Med. Chem. 49, 3485¨C3495",
+26,"1,2-dichloro-3-((2,6-dinitro-4-(trifluoromethyl)phenyl)sulfonyl)-5-methylbenzene",,O=S(C1=C(Cl)C(Cl)=CC(C)=C1)(C2=C([N+]([O-])=O)C=C(C(F)(F)F)C=C2[N+]([O-])=O)=O,IC50=0.3¦Ìmol,"Lu, I.L., Mahindroo, N., Liang, P.H., Kuo, C.J., Hsieh, H.P., Chao, Y.S. and
+Wu, S.Y. (2006) Structure-based drug design and structural biology study
+of novel nonpeptide inhibitors of SARS-CoV main protease. J. Med. Chem.
+49, 5154¨C5161",
+27,"(2R)-6,8-dihydroxy-3-(1,2,8-trihydroxy-9-oxo-4-((3S)-3,5,7-trihydroxychroman-2-yl)-6,7,8,9-tetrahydro-5H-benzo[7]annulen-6-yl)-1,2,3,4-tetrahydronaphthalen-2-yl 3,4,5-trihydroxybenzoate",,O=C(C(C(O)=C(O)C=C1C2[C@@H](O)CC(C(O)=CC(O)=C3)=C3O2)=C1C4)C(O)CC4C5[C@H](OC(C6=CC(O)=C(O)C(O)=C6)=O)CC7=C(O)C=C(O)C=C7C5,IC50=7¦Ìmol,"Chen, C.N., Lin, C.P.-C., Huang, K.K., Chen, W.C., Jiang, W.T., Hsieh, H.P.,
+Liang, P.H. and Hsu, J.T.-A. (2005) Inhibition of SARS-CoV 3C-Like
+protease activity by natural products. Evidence-based Complementary
+Altern. Med. 2, 209¨C215",
+28,"(1R,3aS,5aR,5bR,9S,11aR)-9-hydroxy-5a,5b,8,8,11a-pentamethyl-1-(prop-1-en-2-yl)icosahydro-3aH-cyclopenta[a]chrysene-3a-carboxylic acid",,O[C@H]1CC[C@@]2(C)C(CC[C@]3(C)C2CCC4[C@@]3(C)CC[C@]5(C(O)=O)C4[C@H](C(C)=C)CC5)C1(C)C,8.2 ¦ÌM,"Wen, C.C., Kuo, Y.H., Jan, J.T., Liang, P.H., Wang, S.Y., Liu, H.G., Lee, C.K.,
+Chang, S.T., Kuo, C.J., Lee, S.S. et al. (2006) Specific plant terpenoids and
+lignins possess potent antiviral activities against severe acute respiratory
+syndrome coronavirus. J. Med. Chem. 50, 4087¨C4095",
+29,"(4R)-3,4-bis(benzo[d][1,3]dioxol-5-ylmethyl)dihydrofuran-2(3H)-one",,O=C1OC[C@H](CC2=CC=C(OCO3)C3=C2)C1CC4=CC(OCO5)=C5C=C4,9.1 ¦ÌM,"Wen, C.C., Kuo, Y.H., Jan, J.T., Liang, P.H., Wang, S.Y., Liu, H.G., Lee, C.K.,
+Chang, S.T., Kuo, C.J., Lee, S.S. et al. (2006) Specific plant terpenoids and
+lignins possess potent antiviral activities against severe acute respiratory
+syndrome coronavirus. J. Med. Chem. 50, 4087¨C4095",
+30,"4-(4-chlorophenyl)-2-((4-nitrobenzyl)thio)-6-oxo-1,6-dihydropyrimidine-5-carbonitrile",,ClC(C=C1)=CC=C1C(N=C(SCC2=CC=C([N+]([O-])=O)C=C2)N3)=C(C#N)C3=O,IC50=6.1 ¦ÌM,"Ramajayam, R., Tan, K.P., Liu, H.G. and Liang, P.H. (2010) Synthesis,
+docking studies, and evaluation of pyrimidines as inhibitors of SARS-CoV
+3CL protease. Bioorg. Med. Chem. Lett. 20, 3569¨C3572",
+31,"(Z)-4-((1-(3-nitrophenyl)-5-oxo-3-phenyl-1,5-dihydro-4H-pyrazol-4-ylidene)methyl)benzoic acid",,O=C1/C(C(C2=CC=CC=C2)=NN1C3=CC=CC([N+]([O-])=O)=C3)=C\C4=CC=C(C(O)=O)C=C4,IC50=8.4 ¦ÌM,"Ramajayam, R., Tan, K.P., Liu, H.G. and Liang, P.H. (2010) Synthesis and
+evaluation of pyrazolone compounds as SARS coronavirus 3C-like
+protease inhibitors. Bioorg. Med. Chem. 18, 7849¨C7854",
+32,"(Z)-4-((1-(4-fluorophenyl)-5-oxo-3-phenyl-1,5-dihydro-4H-pyrazol-4-ylidene)methyl)benzoic acid",,O=C1/C(C(C2=CC=CC=C2)=NN1C3=CC=C(F)C=C3)=C\C4=CC=C(C(O)=O)C=C4,IC50=6.8 ¦ÌM,"Ramajayam, R., Tan, K.P., Liu, H.G. and Liang, P.H. (2010) Synthesis and
+evaluation of pyrazolone compounds as SARS coronavirus 3C-like
+protease inhibitors. Bioorg. Med. Chem. 18, 7849¨C7854",
+33,"(Z)-4-((1-(4-cyanophenyl)-5-oxo-3-phenyl-1,5-dihydro-4H-pyrazol-4-ylidene)methyl)benzoic acid",,O=C1/C(C(C2=CC=CC=C2)=NN1C3=CC=C(C#N)C=C3)=C\C4=CC=C(C(O)=O)C=C4,IC50=5.5 ¦ÌM,"Ramajayam, R., Tan, K.P., Liu, H.G. and Liang, P.H. (2010) Synthesis and
+evaluation of pyrazolone compounds as SARS coronavirus 3C-like
+protease inhibitors. Bioorg. Med. Chem. 18, 7849¨C7854",
+34,"1H-benzo[d][1,2,3]triazol-1-yl 2-aminobenzoate",,O=C(C1=CC=CC=C1N)ON2N=NC3=CC=CC=C32,19.5nM,"Wu CY, King KY, Kuo CJ, Fang JM, Wu YT, Ho MY, Liao CL,
+Shie JJ, Liang PH, Wong CH: Stable benzotriazole esters as
+mechanism-based inactivators of the severe acute respiratory
+syndrome 3CL protease. Chem Biol 2006, 13:261-268.",
+35,"1H-benzo[d][1,2,3]triazol-1-yl 4-(dimethylamino)benzoate",,O=C(C1=CC=C(N(C)C)C=C1)ON2N=NC3=CC=CC=C32,17.4nM,"Wu CY, King KY, Kuo CJ, Fang JM, Wu YT, Ho MY, Liao CL,
+Shie JJ, Liang PH, Wong CH: Stable benzotriazole esters as
+mechanism-based inactivators of the severe acute respiratory
+syndrome 3CL protease. Chem Biol 2006, 13:261-268.",form a covalent bond
+36,"1H-benzo[d][1,2,3]triazol-1-yl 4-(methyl-l2-azaneyl)benzoate",,O=C(C1=CC=C([N]C)C=C1)ON2N=NC3=CC=CC=C32,12.1nM,"Wu CY, King KY, Kuo CJ, Fang JM, Wu YT, Ho MY, Liao CL,
+Shie JJ, Liang PH, Wong CH: Stable benzotriazole esters as
+mechanism-based inactivators of the severe acute respiratory
+syndrome 3CL protease. Chem Biol 2006, 13:261-268.",
+37,"1H-benzo[d][1,2,3]triazol-1-yl 4-(diethylamino)benzoate",,O=C(C1=CC=C(N(CC)CC)C=C1)ON2N=NC3=CC=CC=C32,11.1nM,"Wu CY, King KY, Kuo CJ, Fang JM, Wu YT, Ho MY, Liao CL,
+Shie JJ, Liang PH, Wong CH: Stable benzotriazole esters as
+mechanism-based inactivators of the severe acute respiratory
+syndrome 3CL protease. Chem Biol 2006, 13:261-268.",
+38,"1H-benzo[d][1,2,3]triazol-1-yl 1H-benzo[d]imidazole-5-carboxylate",,O=C(C1=CC=C(NC=N2)C2=C1)ON3N=NC4=CC=CC=C43,22.9nM,"Wu CY, King KY, Kuo CJ, Fang JM, Wu YT, Ho MY, Liao CL,
+Shie JJ, Liang PH, Wong CH: Stable benzotriazole esters as
+mechanism-based inactivators of the severe acute respiratory
+syndrome 3CL protease. Chem Biol 2006, 13:261-268.",
+39,"1H-benzo[d][1,2,3]triazol-1-yl 5-fluoro-1H-indole-2-carboxylate",,O=C(C1=CC(C=C(F)C=C2)=C2N1)ON3N=NC4=CC=CC=C43,13.8nM,"Wu CY, King KY, Kuo CJ, Fang JM, Wu YT, Ho MY, Liao CL,
+Shie JJ, Liang PH, Wong CH: Stable benzotriazole esters as
+mechanism-based inactivators of the severe acute respiratory
+syndrome 3CL protease. Chem Biol 2006, 13:261-268.",
+40,"1H-benzo[d][1,2,3]triazol-1-yl 1H-indole-2-carboxylate",,O=C(C1=CC(C=CC=C2)=C2N1)ON3N=NC4=CC=CC=C43,12.3nM,"Wu CY, King KY, Kuo CJ, Fang JM, Wu YT, Ho MY, Liao CL,
+Shie JJ, Liang PH, Wong CH: Stable benzotriazole esters as
+mechanism-based inactivators of the severe acute respiratory
+syndrome 3CL protease. Chem Biol 2006, 13:261-268.",
+41,"N-(3,5-dichlorophenyl)-2-((4-(2-phenylthiazol-4-yl)pyrimidin-2-yl)thio)acetamide",,O=C(CSC1=NC=CC(C2=CSC(C3=CC=CC=C3)=N2)=N1)NC4=CC(Cl)=CC(Cl)=C4,IC50=3¦ÌM,"Tsai KC, Chen SY, Liang PH, Lu IL, Mahindroo N, Hsieh HP,
+Chao YS, Liu L, Liu D, Lien W et al.: Discovery of a novel family of
+SARS-CoV protease inhibitors by virtual screening and 3DQSAR
+studies. J Med Chem 2006, 49:3485-3495.",
+42,N-(4-chlorophenyl)-2-((4-(5-(1-methyl-5-(trifluoromethyl)-1H-pyrazol-3-yl)thiophen-2-yl)pyrimidin-2-yl)thio)acetamide,,O=C(CSC1=NC=CC(C2=CC=C(C3=NN(C)C(C(F)(F)F)=C3)S2)=N1)NC4=CC=C(Cl)C=C4,IC50=10¦ÌM,"Tsai KC, Chen SY, Liang PH, Lu IL, Mahindroo N, Hsieh HP,
+Chao YS, Liu L, Liu D, Lien W et al.: Discovery of a novel family of
+SARS-CoV protease inhibitors by virtual screening and 3DQSAR
+studies. J Med Chem 2006, 49:3485-3495.",
+43,N-(4-chlorophenyl)-2-((4-(4-methyl-5-(4-methylthiazol-2-yl)-2-(methylthio)thiophen-3-yl)pyrimidin-2-yl)thio)acetamide,,O=C(CSC1=NC=CC(C2=C(SC)SC(C3=NC(C)=CS3)=C2C)=N1)NC4=CC=C(Cl)C=C4,IC50=11¦ÌM,"Tsai KC, Chen SY, Liang PH, Lu IL, Mahindroo N, Hsieh HP,
+Chao YS, Liu L, Liu D, Lien W et al.: Discovery of a novel family of
+SARS-CoV protease inhibitors by virtual screening and 3DQSAR
+studies. J Med Chem 2006, 49:3485-3495.",
+44,N-(2-chlorophenyl)-2-((4-(4-methyl-5-(4-methylthiazol-2-yl)-2-(methylthio)thiophen-3-yl)pyrimidin-2-yl)thio)acetamide,,O=C(CSC1=NC=CC(C2=C(SC)SC(C3=NC(C)=CS3)=C2C)=N1)NC4=CC=CC=C4Cl,IC50=12¦ÌM,"Tsai KC, Chen SY, Liang PH, Lu IL, Mahindroo N, Hsieh HP,
+Chao YS, Liu L, Liu D, Lien W et al.: Discovery of a novel family of
+SARS-CoV protease inhibitors by virtual screening and 3DQSAR
+studies. J Med Chem 2006, 49:3485-3495.",
+45,"N-(4-chlorophenyl)-2-((4-(2'-methyl-[2,4'-bithiazol]-4-yl)pyrimidin-2-yl)thio)acetamide",,O=C(CSC1=NC=CC(C2=CSC(C3=CSC(C)=N3)=N2)=N1)NC4=CC=C(Cl)C=C4,IC50=14¦ÌM,"Tsai KC, Chen SY, Liang PH, Lu IL, Mahindroo N, Hsieh HP,
+Chao YS, Liu L, Liu D, Lien W et al.: Discovery of a novel family of
+SARS-CoV protease inhibitors by virtual screening and 3DQSAR
+studies. J Med Chem 2006, 49:3485-3495.",
+46,N-(4-chlorophenyl)-2-((4-(3-phenylisoxazol-5-yl)pyrimidin-2-yl)thio)acetamide,,O=C(CSC1=NC=CC(C2=CC(C3=CC=CC=C3)=NO2)=N1)NC4=CC=C(Cl)C=C4,IC50=15¦ÌM,"Tsai KC, Chen SY, Liang PH, Lu IL, Mahindroo N, Hsieh HP,
+Chao YS, Liu L, Liu D, Lien W et al.: Discovery of a novel family of
+SARS-CoV protease inhibitors by virtual screening and 3DQSAR
+studies. J Med Chem 2006, 49:3485-3495.",
+47,"2-((4-(3-(2,4-dichlorophenyl)isoxazol-5-yl)pyrimidin-2-yl)thio)-N-(4-(trifluoromethyl)phenyl)acetamide",,O=C(CSC1=NC=CC(C2=CC(C3=CC=C(Cl)C=C3Cl)=NO2)=N1)NC4=CC=C(C(F)(F)F)C=C4,IC50=15¦ÌM,"Tsai KC, Chen SY, Liang PH, Lu IL, Mahindroo N, Hsieh HP,
+Chao YS, Liu L, Liu D, Lien W et al.: Discovery of a novel family of
+SARS-CoV protease inhibitors by virtual screening and 3DQSAR
+studies. J Med Chem 2006, 49:3485-3495.",
+48,N-(4-chlorophenyl)-2-((4-(3-(2-chlorophenyl)isoxazol-5-yl)pyrimidin-2-yl)thio)acetamide,,O=C(CSC1=NC=CC(C2=CC(C3=C(Cl)C=CC=C3)=NO2)=N1)NC4=CC=C(Cl)C=C4,IC50=15¦ÌM,"Tsai KC, Chen SY, Liang PH, Lu IL, Mahindroo N, Hsieh HP,
+Chao YS, Liu L, Liu D, Lien W et al.: Discovery of a novel family of
+SARS-CoV protease inhibitors by virtual screening and 3DQSAR
+studies. J Med Chem 2006, 49:3485-3495.",
+49,"2-(2-((3R,4S,4aS,8aS)-3-((((S)-1-(1H-imidazol-4-yl)-3-oxopropan-2-yl)amino)methyl)-2-(4-bromobenzoyl)decahydroisoquinolin-4-yl)hydrazineyl)-N-((2R)-2-hydroxy-4,5-dioxohexan-3-yl)acetamide",,O=C(C1=CC=C(Br)C=C1)N2C[C@@]3([H])CCCC[C@]3([H])[C@H](NNCC(NC([C@@H](C)O)C(C(C)=O)=O)=O)[C@H]2CN[C@@H](CC4=CNC=N4)C([H])=O,IC50=26¦ÌM,Bioorganic & Medicinal Chemistry 27 (2019) 425¨C435,
+50,(S)-N-((S)-1-(1H-imidazol-4-yl)-3-oxopropan-2-yl)-2-((S)-2-((S)-2-((S)-2-acetamido-3-hydroxypropanamido)propanamido)-3-methylbutanamido)-4-methylpentanamide,,CC(C)C[C@@H](C(N[C@H](C=O)CC1=CNC=N1)=O)NC([C@H](C(C)C)NC([C@H](C)NC([C@@H](NC(C)=O)CO)=O)=O)=O,IC50=5.7¦ÌM,"Akaji K, Konno H, Mitsui H, et al. J Med Chem. 2011;54:7962¨C7973.",
+51,(S)-N-((S)-1-(((S)-1-(1H-imidazol-4-yl)-3-oxopropan-2-yl)amino)-3-cyclohexyl-1-oxopropan-2-yl)-2-((S)-2-((S)-2-acetamido-3-hydroxypropanamido)propanamido)-3-methylbutanamide,,CC(C)[C@@H](C(N[C@H](C(N[C@H](C=O)CC1=CNC=N1)=O)CC2CCCCC2)=O)NC([C@H](C)NC([C@@H](NC(C)=O)CO)=O)=O,IC50=65 nM,"Akaji K, Konno H, Mitsui H, et al. J Med Chem. 2011;54:7962¨C7973.",
+52,"(S)-N-((S)-1-(((S)-1-(1H-imidazol-4-yl)-3-oxopropan-2-yl)amino)-3-cyclohexyl-1-oxopropan-2-yl)-2-((2S,3S)-2-acetamido-3-hydroxybutanamido)-3-methylbutanamide",,CC([C@H](NC([C@@H](NC(C)=O)[C@H](C)O)=O)C(N[C@@H](CC1CCCCC1)C(N[C@@H](CC2=CNC=N2)C=O)=O)=O)C,IC50=98 nM,"Akaji K, Konno H, Mitsui H, et al. J Med Chem. 2011;54:7962¨C7973.",
+53,"(S)-2-((((3S,4aR,8aS)-2-(4-bromobenzoyl)decahydroisoquinolin-3-yl)methyl)amino)-3-(1H-imidazol-4-yl)propanal",,O=C[C@H](CC1=CNC=N1)NC[C@H]2N(C(C3=CC=C(Br)C=C3)=O)C[C@@]4([H])CCCC[C@]4([H])C2,IC50=63 ¦ÌM,"Shimamoto Y, Hattori Y, Kobayashi K, Teruya K, Sanjoh A, Nakagawa A,
+Yamashita E, Akaji K. Fused-ring structure of decahydroisoquinoline as a novel
+scaffold for SARS 3CL protease inhibitor. Bioorg. Med. Chem. 2015; 23: 876¨C890",
+54,"(S)-2-((((1S,3S,4aR,8aS)-1-((butyl(methyl)amino)methyl)octahydro-1H-isochromen-3-yl)methyl)amino)-3-(1H-imidazol-4-yl)propanal",,O=C[C@H](CC1=CNC=N1)NC[C@H]2O[C@H](CN(CCCC)C)[C@@]3([H])CCCC[C@]3([H])C2,IC50=95 ¦ÌM,"S-i. Yoshizawa, Y. Hattori, K. Kobayashi, K. Akaji, Evaluation of an
+octahydroisochromene scaffold used as a novel SARS 3CL protease inhibitor, Bioorganic & Medicinal
+Chemistry (2019), doi: https://doi.org/10.1016/j.bmc.2019.115273",
+55,"ethyl (5S,8S,11S,E)-8-benzyl-5-isopropyl-3,6,9-trioxo-11-(((S)-2-oxopyrrolidin-3-yl)methyl)-1-phenyl-2-oxa-4,7,10-triazatetradec-12-en-14-oate",,O=C(N[C@@H](C(C)C)C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](C[C@@H]2CCNC2=O)/C=C/C(OCC)=O)=O)=O)OCC3=CC=CC=C3,2.26 ¦ÌM,"Yang, S.; Chen, S.- J.; Hsu, M.-F.; Wu, J.-D.; Tseng, C.-T. K.;
+Liu, Y.-F.; Chen, H.-C.; Kuo, C.-W.; Wu, C.-S.; Chang, L.-W.; Chen,
+W.-C.; Liao, S.-Y.; Chang, T.-Y.; Hung, H.-H.; Shr, H.-L.; Liu, C.-Y.;
+Huang, Y.-A.; Chang, L.-Y.; Hsu, J.-C.; Peters, C. J.; Wang, A. H.-J.;
+Hsu, M.-C. Synthesis, crystal structure, structure-activity relationships,
+and antiviral activity of a potent SARS coronavirus 3CL protease
+inhibitor. J. Med. Chem. 2006, 49, 4971?4980.",
+56,"ethyl (5S,8S,11S,E)-8-isobutyl-5-isopropyl-3,6,9-trioxo-11-(((S)-2-oxopyrrolidin-3-yl)methyl)-1-phenyl-2-oxa-4,7,10-triazatetradec-12-en-14-oate",,O=C(N[C@@H](C(C)C)C(N[C@@H](CC(C)C)C(N[C@@H](C[C@@H]1CCNC1=O)/C=C/C(OCC)=O)=O)=O)OCC2=CC=CC=C2,0.66 ¦ÌM,"Yang, S.; Chen, S.- J.; Hsu, M.-F.; Wu, J.-D.; Tseng, C.-T. K.;
+Liu, Y.-F.; Chen, H.-C.; Kuo, C.-W.; Wu, C.-S.; Chang, L.-W.; Chen,
+W.-C.; Liao, S.-Y.; Chang, T.-Y.; Hung, H.-H.; Shr, H.-L.; Liu, C.-Y.;
+Huang, Y.-A.; Chang, L.-Y.; Hsu, J.-C.; Peters, C. J.; Wang, A. H.-J.;
+Hsu, M.-C. Synthesis, crystal structure, structure-activity relationships,
+and antiviral activity of a potent SARS coronavirus 3CL protease
+inhibitor. J. Med. Chem. 2006, 49, 4971?4980.",
+57,"ethyl (5S,8S,11S,E)-5-((S)-1-(tert-butoxy)ethyl)-8-isobutyl-3,6,9-trioxo-11-(((S)-2-oxopyrrolidin-3-yl)methyl)-1-phenyl-2-oxa-4,7,10-triazatetradec-12-en-14-oate",,O=C(N[C@@H]([C@H](C)OC(C)(C)C)C(N[C@@H](CC(C)C)C(N[C@@H](C[C@@H]1CCNC1=O)/C=C/C(OCC)=O)=O)=O)OCC2=CC=CC=C2,0.05 ¦ÌM,"Yang, S.; Chen, S.- J.; Hsu, M.-F.; Wu, J.-D.; Tseng, C.-T. K.;
+Liu, Y.-F.; Chen, H.-C.; Kuo, C.-W.; Wu, C.-S.; Chang, L.-W.; Chen,
+W.-C.; Liao, S.-Y.; Chang, T.-Y.; Hung, H.-H.; Shr, H.-L.; Liu, C.-Y.;
+Huang, Y.-A.; Chang, L.-Y.; Hsu, J.-C.; Peters, C. J.; Wang, A. H.-J.;
+Hsu, M.-C. Synthesis, crystal structure, structure-activity relationships,
+and antiviral activity of a potent SARS coronavirus 3CL protease
+inhibitor. J. Med. Chem. 2006, 49, 4971?4980.",
+58,"ethyl (S,E)-4-((S)-3-(4-fluorophenyl)-2-((S)-3-methyl-2-(5-methylisoxazole-3-carboxamido)butanamido)propanamido)-5-phenylpent-2-enoate",,CC1=CC(C(N[C@@H](C(C)C)C(N[C@@H](CC2=CC=C(F)C=C2)C(N[C@@H](CC3=CC=CC=C3)/C=C/C(OCC)=O)=O)=O)=O)=NO1,IC50=39 ¦ÌM,"Shie, J.-J.; Fang, J.-M.; Kuo, T.-H.; Kuo, C.-J.; Liang, P.-H.;
+Huang, H.-J.; Wu, Y.-T.; Jan, J.-T.; Cheng, Y.-S. E.; Wong, C.-H.
+Inhibition of the severe acute respiratory syndrome 3CL protease by
+peptidomimetic alpha, beta-unsaturated esters. Bioorg. Med. Chem.
+2005, 13, 5240?5252.",
+59,"ethyl (S,E)-4-((S)-2-((S)-3-methyl-2-(5-methylisoxazole-3-carboxamido)butanamido)-3-phenylpropanamido)-5-phenylpent-2-enoate",,CC1=CC(C(N[C@@H](C(C)C)C(N[C@@H](CC2=CC=CC=C2)C(N[C@@H](CC3=CC=CC=C3)/C=C/C(OCC)=O)=O)=O)=O)=NO1,IC50=13 ¦ÌM,"Shie, J.-J.; Fang, J.-M.; Kuo, T.-H.; Kuo, C.-J.; Liang, P.-H.;
+Huang, H.-J.; Wu, Y.-T.; Jan, J.-T.; Cheng, Y.-S. E.; Wong, C.-H.
+Inhibition of the severe acute respiratory syndrome 3CL protease by
+peptidomimetic alpha, beta-unsaturated esters. Bioorg. Med. Chem.
+2005, 13, 5240?5252.",
+60,"ethyl (S,E)-4-((S)-2-((E)-3-([1,1'-biphenyl]-4-yl)acrylamido)-3-phenylpropanamido)-5-phenylpent-2-enoate",,O=C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC2=CC=CC=C2)/C=C/C(OCC)=O)=O)/C=C/C3=CC=C(C4=CC=CC=C4)C=C3,IC50=10 ¦ÌM,"Shie, J.-J.; Fang, J.-M.; Kuo, T.-H.; Kuo, C.-J.; Liang, P.-H.;
+Huang, H.-J.; Wu, Y.-T.; Jan, J.-T.; Cheng, Y.-S. E.; Wong, C.-H.
+Inhibition of the severe acute respiratory syndrome 3CL protease by
+peptidomimetic alpha, beta-unsaturated esters. Bioorg. Med. Chem.
+2005, 13, 5240?5252.",
+61,"ethyl (S,E)-4-((S)-2-((E)-3-(4-nitrophenyl)acrylamido)-3-phenylpropanamido)-5-phenylpent-2-enoate",,O=C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC2=CC=CC=C2)/C=C/C(OCC)=O)=O)/C=C/C3=CC=C([N+]([O-])=O)C=C3,IC50=5 ¦ÌM,"Shie, J.-J.; Fang, J.-M.; Kuo, T.-H.; Kuo, C.-J.; Liang, P.-H.;
+Huang, H.-J.; Wu, Y.-T.; Jan, J.-T.; Cheng, Y.-S. E.; Wong, C.-H.
+Inhibition of the severe acute respiratory syndrome 3CL protease by
+peptidomimetic alpha, beta-unsaturated esters. Bioorg. Med. Chem.
+2005, 13, 5240?5252.",
+62,"ethyl (S,E)-4-((S)-2-((E)-3-(4-(dimethylamino)phenyl)acrylamido)-3-phenylpropanamido)-5-phenylpent-2-enoate",,O=C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC2=CC=CC=C2)/C=C/C(OCC)=O)=O)/C=C/C3=CC=C(N(C)C)C=C3,IC50=1 ¦ÌM,"Shie, J.-J.; Fang, J.-M.; Kuo, T.-H.; Kuo, C.-J.; Liang, P.-H.;
+Huang, H.-J.; Wu, Y.-T.; Jan, J.-T.; Cheng, Y.-S. E.; Wong, C.-H.
+Inhibition of the severe acute respiratory syndrome 3CL protease by
+peptidomimetic alpha, beta-unsaturated esters. Bioorg. Med. Chem.
+2005, 13, 5240?5252.",
+63,"ethyl (S,E)-4-((S)-2-((E)-3-(2,4-dimethoxyphenyl)acrylamido)-3-phenylpropanamido)-5-phenylpent-2-enoate",,O=C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC2=CC=CC=C2)/C=C/C(OCC)=O)=O)/C=C/C3=C(OC)C=C(OC)C=C3,IC50=10 ¦ÌM,"Shie, J.-J.; Fang, J.-M.; Kuo, T.-H.; Kuo, C.-J.; Liang, P.-H.;
+Huang, H.-J.; Wu, Y.-T.; Jan, J.-T.; Cheng, Y.-S. E.; Wong, C.-H.
+Inhibition of the severe acute respiratory syndrome 3CL protease by
+peptidomimetic alpha, beta-unsaturated esters. Bioorg. Med. Chem.
+2005, 13, 5240?5252.",
+64,"ethyl (S,E)-4-((S)-2-((E)-3-(benzo[d][1,3]dioxol-5-yl)acrylamido)-3-phenylpropanamido)-5-phenylpent-2-enoate",,O=C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC2=CC=CC=C2)/C=C/C(OCC)=O)=O)/C=C/C3=CC=C(OCO4)C4=C3,IC50=7 ¦ÌM,"Shie, J.-J.; Fang, J.-M.; Kuo, T.-H.; Kuo, C.-J.; Liang, P.-H.;
+Huang, H.-J.; Wu, Y.-T.; Jan, J.-T.; Cheng, Y.-S. E.; Wong, C.-H.
+Inhibition of the severe acute respiratory syndrome 3CL protease by
+peptidomimetic alpha, beta-unsaturated esters. Bioorg. Med. Chem.
+2005, 13, 5240?5252.",
+65,"ethyl (S,E)-4-((S)-2-((E)-3-(benzo[d][1,3]dioxol-5-yl)acrylamido)-3-phenylpropanamido)-5-((S)-2-oxopyrrolidin-3-yl)pent-2-enoate",,O=C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](C[C@@H]2CCNC2=O)/C=C/C(OCC)=O)=O)/C=C/C3=CC=C(OCO4)C4=C3,IC50=10 ¦ÌM,"Shie, J.-J.; Fang, J.-M.; Kuo, T.-H.; Kuo, C.-J.; Liang, P.-H.;
+Huang, H.-J.; Wu, Y.-T.; Jan, J.-T.; Cheng, Y.-S. E.; Wong, C.-H.
+Inhibition of the severe acute respiratory syndrome 3CL protease by
+peptidomimetic alpha, beta-unsaturated esters. Bioorg. Med. Chem.
+2005, 13, 5240?5252.",
+66,"ethyl (S,E)-4-((2R,5S)-2-benzyl-6-methyl-5-(5-methylisoxazole-3-carboxamido)-4-oxoheptanamido)-5-((S)-2-oxopyrrolidin-3-yl)pent-2-enoate",,CC1=CC(C(N[C@@H](C(C)C)C(C[C@@H](CC2=CC=CC=C2)C(N[C@@H](C[C@@H]3CCNC3=O)/C=C/C(OCC)=O)=O)=O)=O)=NO1,0.014 min-1,"Ghosh, A. K.; Xi, K.; Ratia, K.; Santarsiero, B. D.; Fu, W.;
+Harcourt, B. H.; Rota, P. A.; Baker, S. C.; Johnson, M. E.; Mesecar, A.
+D. Design and synthesis of peptidomimetic severe acute respiratory
+syndrome chymotrypsin-like protease inhibitors. J. Med. Chem. 2005,
+48, 6767?6770.",
+67,"ethyl (S,E)-4-((2S,5S)-6-methyl-5-(5-methylisoxazole-3-carboxamido)-2-(2-methylprop-1-en-1-yl)-4-oxoheptanamido)-5-((S)-2-oxopyrrolidin-3-yl)pent-2-enoate",,CC1=CC(C(N[C@@H](C(C)C)C(C[C@@H](/C=C(C)/C)C(N[C@@H](C[C@@H]2CCNC2=O)/C=C/C(OCC)=O)=O)=O)=O)=NO1,0.045 min-1,"Ghosh, A. K.; Xi, K.; Ratia, K.; Santarsiero, B. D.; Fu, W.;
+Harcourt, B. H.; Rota, P. A.; Baker, S. C.; Johnson, M. E.; Mesecar, A.
+D. Design and synthesis of peptidomimetic severe acute respiratory
+syndrome chymotrypsin-like protease inhibitors. J. Med. Chem. 2005,
+48, 6767?6770.",
+68,"ethyl (S,E)-4-((2R,4S,5S)-2-benzyl-4-hydroxy-6-methyl-5-(5-methylisoxazole-3-carboxamido)heptanamido)-5-((S)-2-oxopyrrolidin-3-yl)pent-2-enoate",,CC1=CC(C(N[C@@H](C(C)C)[C@@H](O)C[C@@H](CC2=CC=CC=C2)C(N[C@@H](C[C@@H]3CCNC3=O)/C=C/C(OCC)=O)=O)=O)=NO1,0.0025 min-2,"Ghosh, A. K.; Xi, K.; Ratia, K.; Santarsiero, B. D.; Fu, W.;
+Harcourt, B. H.; Rota, P. A.; Baker, S. C.; Johnson, M. E.; Mesecar, A.
+D. Design and synthesis of peptidomimetic severe acute respiratory
+syndrome chymotrypsin-like protease inhibitors. J. Med. Chem. 2005,
+48, 6767?6770.",
+69,"ethyl (6S,9S,12S,15S,E)-12-benzyl-6-(hydroxymethyl)-9-isopropyl-2,2-dimethyl-4,7,10,13-tetraoxo-15-(((S)-2-oxopyrrolidin-3-yl)methyl)-3-oxa-5,8,11,14-tetraazaoctadec-16-en-18-oate",,O=C(N[C@@H](C(C)C)C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](C[C@@H]2CCNC2=O)/C=C/C(OCC)=O)=O)=O)[C@H](CO)NC(OC(C)(C)C)=O,IC50=15¦ÌM,"Ghosh, A. K.; Xi, K.; Grum-Tokars, V.; Xu, X.; Ratia, K.; Fu, W.;
+Houser, K. V.; Baker, S. C.; Johnson, M. E.; Mesecar, A. D. Structurebased
+design, synthesis, and biological evaluation of peptidomimetic
+SARS-CoV 3CLpro inhibitors. Bioorg. Med. Chem. Lett. 2007, 17,
+5876?5880.",
+70,"ethyl (6S,9S,12R,15S,E)-6-(hydroxymethyl)-9-isopropyl-2,2-dimethyl-12-(3-methylbut-2-en-1-yl)-4,7,10,13-tetraoxo-15-(((S)-2-oxopyrrolidin-3-yl)methyl)-3-oxa-5,8,14-triazaoctadec-16-en-18-oate",,O=C([C@H](CO)NC(OC(C)(C)C)=O)N[C@@H](C(C)C)C(C[C@@H](C/C=C(C)\C)C(N[C@@H](C[C@@H]1CCNC1=O)/C=C/C(OCC)=O)=O)=O,IC50=80 ¦ÌM,"Ghosh, A. K.; Xi, K.; Grum-Tokars, V.; Xu, X.; Ratia, K.; Fu, W.;
+Houser, K. V.; Baker, S. C.; Johnson, M. E.; Mesecar, A. D. Structurebased
+design, synthesis, and biological evaluation of peptidomimetic
+SARS-CoV 3CLpro inhibitors. Bioorg. Med. Chem. Lett. 2007, 17,
+5876?5880.",
+71,"ethyl (6S,9S,12S,15S,E)-6-(hydroxymethyl)-12-isobutyl-9-isopropyl-2,2-dimethyl-4,7,10,13-tetraoxo-15-(((S)-2-oxopyrrolidin-3-yl)methyl)-3-oxa-5,8,11,14-tetraazaoctadec-16-en-18-oate",,O=C([C@H](CO)NC(OC(C)(C)C)=O)N[C@@H](C(C)C)C(N[C@@H](CC(C)C)C(N[C@@H](C[C@@H]1CCNC1=O)/C=C/C(OCC)=O)=O)=O,IC50=10 ¦ÌM,"Ghosh, A. K.; Xi, K.; Grum-Tokars, V.; Xu, X.; Ratia, K.; Fu, W.;
+Houser, K. V.; Baker, S. C.; Johnson, M. E.; Mesecar, A. D. Structurebased
+design, synthesis, and biological evaluation of peptidomimetic
+SARS-CoV 3CLpro inhibitors. Bioorg. Med. Chem. Lett. 2007, 17,
+5876?5880.",
+72,"(S)-4-((S)-2-((2S,3R)-2-((S)-2-acetamido-3-methylbutanamido)-3-(benzyloxy)butanamido)-4-methylpentanamido)-6-(1,4-dioxo-3,4-dihydrophthalazin-2(1H)-yl)-N,N-dimethyl-5-oxohexanamide",,O=C([C@H](C(C)C)NC(C)=O)N[C@@H]([C@H](OCC1=CC=CC=C1)C)C(N[C@@H](CC(C)C)C(N[C@@H](CCC(N(C)C)=O)C(CN2NC(C(C=CC=C3)=C3C2=O)=O)=O)=O)=O,IC50=64 ¦ÌM,"Jain, R. P.; Pettersson, H. I.; Zhang, J.; Aull, K. D.; Fortin, P. D.;
+Huitema, C.; Eltis, L. D.; Parrish, J. C.; James, M. N. G.; Wishart, D. S.;
+Vederas, J. C. Synthesis and evaluation of keto-glutamine analogues as
+potent inhibitors of severe acute respiratory syndrome 3CLpro. J. Med.
+Chem. 2004, 47, 6113?6116.",
+73,"(S)-4-((S)-2-((2S,3R)-2-((S)-2-acetamido-3-methylbutanamido)-3-hydroxybutanamido)-4-methylpentanamido)-6-(1,4-dioxo-3,4-dihydrophthalazin-2(1H)-yl)-N,N-dimethyl-5-oxohexanamide",,O=C([C@H](C(C)C)NC(C)=O)N[C@@H]([C@H](O)C)C(N[C@@H](CC(C)C)C(N[C@@H](CCC(N(C)C)=O)C(CN1NC(C(C=CC=C2)=C2C1=O)=O)=O)=O)=O,IC50=28 ¦ÌM,"Jain, R. P.; Pettersson, H. I.; Zhang, J.; Aull, K. D.; Fortin, P. D.;
+Huitema, C.; Eltis, L. D.; Parrish, J. C.; James, M. N. G.; Wishart, D. S.;
+Vederas, J. C. Synthesis and evaluation of keto-glutamine analogues as
+potent inhibitors of severe acute respiratory syndrome 3CLpro. J. Med.
+Chem. 2004, 47, 6113?6116.",
+74,"(S)-4-((S)-2-((2S,3R)-2-((S)-2-acetamido-3-methylbutanamido)-3-(benzyloxy)butanamido)-4-methylpentanamido)-N,N-dimethyl-6-(5-nitro-1,4-dioxo-3,4-dihydrophthalazin-2(1H)-yl)-5-oxohexanamide",,O=C([C@H](C(C)C)NC(C)=O)N[C@@H]([C@H](OCC1=CC=CC=C1)C)C(N[C@@H](CC(C)C)C(N[C@@H](CCC(N(C)C)=O)C(CN2NC(C(C([N+]([O-])=O)=CC=C3)=C3C2=O)=O)=O)=O)=O,IC50=70 ¦ÌM,"Jain, R. P.; Pettersson, H. I.; Zhang, J.; Aull, K. D.; Fortin, P. D.;
+Huitema, C.; Eltis, L. D.; Parrish, J. C.; James, M. N. G.; Wishart, D. S.;
+Vederas, J. C. Synthesis and evaluation of keto-glutamine analogues as
+potent inhibitors of severe acute respiratory syndrome 3CLpro. J. Med.
+Chem. 2004, 47, 6113?6116.",
+75,"(S)-4-((S)-2-((2S,3R)-2-((S)-2-acetamido-3-methylbutanamido)-3-hydroxybutanamido)-4-methylpentanamido)-N,N-dimethyl-6-(5-nitro-1,4-dioxo-3,4-dihydrophthalazin-2(1H)-yl)-5-oxohexanamide",,O=C([C@H](C(C)C)NC(C)=O)N[C@@H]([C@H](O)C)C(N[C@@H](CC(C)C)C(N[C@@H](CCC(N(C)C)=O)C(CN1NC(C(C([N+]([O-])=O)=CC=C2)=C2C1=O)=O)=O)=O)=O,IC50=53 ¦ÌM,"Jain, R. P.; Pettersson, H. I.; Zhang, J.; Aull, K. D.; Fortin, P. D.;
+Huitema, C.; Eltis, L. D.; Parrish, J. C.; James, M. N. G.; Wishart, D. S.;
+Vederas, J. C. Synthesis and evaluation of keto-glutamine analogues as
+potent inhibitors of severe acute respiratory syndrome 3CLpro. J. Med.
+Chem. 2004, 47, 6113?6116.",
+76,"(S)-2-((2S,3R)-2-((S)-2-acetamido-3-methylbutanamido)-3-(benzyloxy)butanamido)-N-((S)-4-(1,4-dioxo-3,4-dihydrophthalazin-2(1H)-yl)-3-oxo-1-((S)-2-oxopyrrolidin-3-yl)butan-2-yl)-4-methylpentanamide",,O=C1NCC[C@H]1C[C@@H](C(CN2NC(C(C=CC=C3)=C3C2=O)=O)=O)NC([C@H](CC(C)C)NC([C@H]([C@H](OCC4=CC=CC=C4)C)NC([C@H](C(C)C)NC(C)=O)=O)=O)=O,IC50=2.7 ¦ÌM,"Jain, R. P.; Pettersson, H. I.; Zhang, J.; Aull, K. D.; Fortin, P. D.;
+Huitema, C.; Eltis, L. D.; Parrish, J. C.; James, M. N. G.; Wishart, D. S.;
+Vederas, J. C. Synthesis and evaluation of keto-glutamine analogues as
+potent inhibitors of severe acute respiratory syndrome 3CLpro. J. Med.
+Chem. 2004, 47, 6113?6116.",
+77,"(S)-2-((2S,3R)-2-((S)-2-acetamido-3-methylbutanamido)-3-hydroxybutanamido)-N-((S)-4-(1,4-dioxo-3,4-dihydrophthalazin-2(1H)-yl)-3-oxo-1-((S)-2-oxopyrrolidin-3-yl)butan-2-yl)-4-methylpentanamide",,O=C1NCC[C@H]1C[C@@H](C(CN2NC(C(C=CC=C3)=C3C2=O)=O)=O)NC([C@H](CC(C)C)NC([C@H]([C@H](O)C)NC([C@H](C(C)C)NC(C)=O)=O)=O)=O,IC50=2.9 ¦ÌM,"Jain, R. P.; Pettersson, H. I.; Zhang, J.; Aull, K. D.; Fortin, P. D.;
+Huitema, C.; Eltis, L. D.; Parrish, J. C.; James, M. N. G.; Wishart, D. S.;
+Vederas, J. C. Synthesis and evaluation of keto-glutamine analogues as
+potent inhibitors of severe acute respiratory syndrome 3CLpro. J. Med.
+Chem. 2004, 47, 6113?6116.",
+78,"(S)-2-((2S,3R)-2-((S)-2-acetamido-3-methylbutanamido)-3-(benzyloxy)butanamido)-4-methyl-N-((S)-4-(5-nitro-1,4-dioxo-3,4-dihydrophthalazin-2(1H)-yl)-3-oxo-1-((S)-2-oxopyrrolidin-3-yl)butan-2-yl)pentanamide",,O=C1NCC[C@H]1C[C@@H](C(CN2NC(C(C([N+]([O-])=O)=CC=C3)=C3C2=O)=O)=O)NC([C@H](CC(C)C)NC([C@H]([C@H](OCC4=CC=CC=C4)C)NC([C@H](C(C)C)NC(C)=O)=O)=O)=O,IC50=0.60 ¦ÌM,"Jain, R. P.; Pettersson, H. I.; Zhang, J.; Aull, K. D.; Fortin, P. D.;
+Huitema, C.; Eltis, L. D.; Parrish, J. C.; James, M. N. G.; Wishart, D. S.;
+Vederas, J. C. Synthesis and evaluation of keto-glutamine analogues as
+potent inhibitors of severe acute respiratory syndrome 3CLpro. J. Med.
+Chem. 2004, 47, 6113?6116.",
+79,"(S)-2-((2S,3R)-2-((S)-2-acetamido-3-methylbutanamido)-3-hydroxybutanamido)-4-methyl-N-((S)-4-(5-nitro-1,4-dioxo-3,4-dihydrophthalazin-2(1H)-yl)-3-oxo-1-((S)-2-oxopyrrolidin-3-yl)butan-2-yl)pentanamide",,O=C1NCC[C@H]1C[C@@H](C(CN2NC(C(C([N+]([O-])=O)=CC=C3)=C3C2=O)=O)=O)NC([C@H](CC(C)C)NC([C@H]([C@H](O)C)NC([C@H](C(C)C)NC(C)=O)=O)=O)=O,IC50=3.4 ¦ÌM,"Jain, R. P.; Pettersson, H. I.; Zhang, J.; Aull, K. D.; Fortin, P. D.;
+Huitema, C.; Eltis, L. D.; Parrish, J. C.; James, M. N. G.; Wishart, D. S.;
+Vederas, J. C. Synthesis and evaluation of keto-glutamine analogues as
+potent inhibitors of severe acute respiratory syndrome 3CLpro. J. Med.
+Chem. 2004, 47, 6113?6116.",
+80,"(S)-N1,N4-bis((S)-1-((2-chloro-4-nitrophenyl)amino)-1-oxo-3-phenylpropan-2-yl)-2-hydroxysuccinamide",,O=C(C[C@H](O)C(N[C@@H](CC1=CC=CC=C1)C(NC2=CC=C([N+]([O-])=O)C=C2Cl)=O)=O)N[C@H](C(NC3=CC=C([N+]([O-])=O)C=C3Cl)=O)CC4=CC=CC=C4,3.1 ¦ÌM,"Shie, J. J.; Fang, J.-M.; Kuo, C.-J.; Kuo, T.-H.; Liang, P.-H.;
+Huang, H.-J.; Yang, W.-B.; Lin, C.-H.; Chen, J.-L.; Wu, Y.-T.; Wong,
+C.-H. Discovery of potent anilide inhibitors against the severe acute
+respiratory syndrome 3CL protease. J. Med. Chem. 2005, 48, 4469?
+4473.",
+81,N-((S)-1-(((S)-1-(((S)-1-((2-chloro-4-nitrophenyl)amino)-1-oxo-3-phenylpropan-2-yl)amino)-4-methyl-1-oxopentan-2-yl)amino)-3-methyl-1-oxobutan-2-yl)thiophene-2-carboxamide,,O=C(C1=CC=CS1)N[C@@H](C(C)C)C(N[C@@H](CC(C)C)C(N[C@@H](CC2=CC=CC=C2)C(NC3=CC=C([N+]([O-])=O)C=C3Cl)=O)=O)=O,2.29 ¦ÌM,"Shie, J. J.; Fang, J.-M.; Kuo, C.-J.; Kuo, T.-H.; Liang, P.-H.;
+Huang, H.-J.; Yang, W.-B.; Lin, C.-H.; Chen, J.-L.; Wu, Y.-T.; Wong,
+C.-H. Discovery of potent anilide inhibitors against the severe acute
+respiratory syndrome 3CL protease. J. Med. Chem. 2005, 48, 4469?
+4473.",
+82,N-((S)-1-(((S)-1-(((S)-1-((2-chloro-4-nitrophenyl)amino)-1-oxo-3-phenylpropan-2-yl)amino)-1-oxo-3-phenylpropan-2-yl)amino)-3-methyl-1-oxobutan-2-yl)-5-methylisoxazole-3-carboxamide,,O=C(C1=NOC(C)=C1)N[C@@H](C(C)C)C(N[C@@H](CC2=CC=CC=C2)C(N[C@@H](CC3=CC=CC=C3)C(NC4=CC=C([N+]([O-])=O)C=C4Cl)=O)=O)=O,2.90 ¦ÌM,"Shie, J. J.; Fang, J.-M.; Kuo, C.-J.; Kuo, T.-H.; Liang, P.-H.;
+Huang, H.-J.; Yang, W.-B.; Lin, C.-H.; Chen, J.-L.; Wu, Y.-T.; Wong,
+C.-H. Discovery of potent anilide inhibitors against the severe acute
+respiratory syndrome 3CL protease. J. Med. Chem. 2005, 48, 4469?
+4473.",
+83,N-((S)-1-(((S)-1-(((S)-1-((2-chloro-4-nitrophenyl)amino)-1-oxo-3-phenylpropan-2-yl)amino)-1-oxo-3-phenylpropan-2-yl)amino)-3-methyl-1-oxobutan-2-yl)thiophene-2-carboxamide,,O=C(C1=CC=CS1)N[C@@H](C(C)C)C(N[C@@H](CC2=CC=CC=C2)C(N[C@@H](CC3=CC=CC=C3)C(NC4=CC=C([N+]([O-])=O)C=C4Cl)=O)=O)=O,4.3 ¦ÌM,"Shie, J. J.; Fang, J.-M.; Kuo, C.-J.; Kuo, T.-H.; Liang, P.-H.;
+Huang, H.-J.; Yang, W.-B.; Lin, C.-H.; Chen, J.-L.; Wu, Y.-T.; Wong,
+C.-H. Discovery of potent anilide inhibitors against the severe acute
+respiratory syndrome 3CL protease. J. Med. Chem. 2005, 48, 4469?
+4473.",
+84,"N-((S)-1-(((S)-1-(((2S,3S)-1-(((S)-1-((2-chloro-4-nitrophenyl)amino)-1-oxo-3-phenylpropan-2-yl)amino)-3-hydroxy-1-oxobutan-2-yl)amino)-1-oxo-3-phenylpropan-2-yl)amino)-3-methyl-1-oxobutan-2-yl)-5-methylisoxazole-3-carboxamide",,O=C(N[C@@H]([C@H](C)O)C(N[C@@H](CC1=CC=CC=C1)C(NC2=CC=C([N+]([O-])=O)C=C2Cl)=O)=O)[C@H](CC3=CC=CC=C3)NC([C@H](C(C)C)NC(C4=NOC(C)=C4)=O)=O,1.61 ¦ÌM,"Shie, J. J.; Fang, J.-M.; Kuo, C.-J.; Kuo, T.-H.; Liang, P.-H.;
+Huang, H.-J.; Yang, W.-B.; Lin, C.-H.; Chen, J.-L.; Wu, Y.-T.; Wong,
+C.-H. Discovery of potent anilide inhibitors against the severe acute
+respiratory syndrome 3CL protease. J. Med. Chem. 2005, 48, 4469?
+4473.",
+85,"benzyl ((S)-1-(((S)-1-(((2S,3S)-1-(((S)-1-((2-chloro-4-nitrophenyl)amino)-1-oxo-3-phenylpropan-2-yl)amino)-3-hydroxy-1-oxobutan-2-yl)amino)-1-oxo-3-phenylpropan-2-yl)amino)-3-methyl-1-oxobutan-2-yl)carbamate",,O=C(N[C@@H]([C@H](C)O)C(N[C@@H](CC1=CC=CC=C1)C(NC2=CC=C([N+]([O-])=O)C=C2Cl)=O)=O)[C@H](CC3=CC=CC=C3)NC([C@H](C(C)C)NC(OCC4=CC=CC=C4)=O)=O,1.51 ¦ÌM,"Shie, J. J.; Fang, J.-M.; Kuo, C.-J.; Kuo, T.-H.; Liang, P.-H.;
+Huang, H.-J.; Yang, W.-B.; Lin, C.-H.; Chen, J.-L.; Wu, Y.-T.; Wong,
+C.-H. Discovery of potent anilide inhibitors against the severe acute
+respiratory syndrome 3CL protease. J. Med. Chem. 2005, 48, 4469?
+4473.",
+86,"ethyl (2R,3R)-3-(1-(3-amino-3-oxopropyl)-2-(((benzyloxy)carbonyl)-D-leucyl-L-phenylalanyl)hydrazine-1-carbonyl)oxirane-2-carboxylate",,O=C(NN(CCC(N)=O)C([C@H]1[C@H](C(OCC)=O)O1)=O)[C@H](CC2=CC=CC=C2)NC([C@@H](CC(C)C)NC(OCC3=CC=CC=C3)=O)=O,Kinact/Ki= 1900 (¡À400) M?1s?1,"Lee, T. W.; Cherney, M. M.; Liu, J.; James, K. E.; Powers, J. C.;
+Eltis, L. D.; James, M. N. G. Crystal structures reveal an induced-fit
+binding of a substrate-like aza-peptide epoxide to SARS coronavirus
+main peptidase. J. Mol. Biol. 2007, 366, 916?932",
+87,"ethyl (2R,3R)-3-((2-((2-(benzyloxy)-2-oxoethyl)amino)-2-oxoethyl)carbamoyl)aziridine-2-carboxylate",,O=C([C@H]1[C@H](C(OCC)=O)N1)NCC(NCC(OCC2=CC=CC=C2)=O)=O,"54%
+inhibition at 100 ¦ÌM","Martina, E.; Stiefl, N.; Degel, B.; Schulz, F.; Breuning, A.;
+Schiller, M.; Vicik, R.; Baumann, K.; Ziebuhr, J.; Schirmeister, T.
+Screening of electrophilic compounds yields an aziridinyl peptide as
+new active-site directed SARS-CoV main protease inhibitor. Bioorg.
+Med. Chem. Lett. 2005, 15, 5365?5369",
+88,"(2R,4S,5R)-4-((2S)-2-(2-acetamidopropanamido)-3-hydroxypropanamido)-N-((S)-6-amino-1,6-dioxohexan-2-yl)-5-hydroxy-2-(hydroxymethyl)-3-oxohexanamide",,CC(NC(C(N[C@H](C(N[C@H](C([C@H](C(N[C@H](C([H])=O)CCCC(N)=O)=O)CO)=O)[C@@H](C)O)=O)CO)=O)C)=O,IC50=7.5 ¦ÌM,"Al-Gharabli, S. I.; Shah, S. T.; Weik, S.; Schmidt, M. F.; Mesters,
+J. R.; Kuhn, D.; Klebe, G.; Hilgenfeld, R.; Rademann, J. An efficient
+method for the synthesis of peptide aldehyde libraries employed in the
+discovery of reversible SARS coronavirus main protease (SARS-CoV
+Mpro) inhibitors. ChemBioChem 2006, 7, 1048?1055.",
+89,"4-acetamido-5-(((S)-1-(((2R,3S,5R)-5-(((S)-6-amino-1,6-dioxohexan-2-yl)carbamoyl)-2-hydroxy-7-methyl-4-oxooctan-3-yl)amino)-3-hydroxy-1-oxopropan-2-yl)amino)-5-oxopentanoic acid",,CC(NC(C(N[C@H](C(N[C@H](C([C@H](C(N[C@H](C([H])=O)CCCC(N)=O)=O)CC(C)C)=O)[C@@H](C)O)=O)CO)=O)CCC(O)=O)=O,IC50=7.5 ¦ÌM,"Al-Gharabli, S. I.; Shah, S. T.; Weik, S.; Schmidt, M. F.; Mesters,
+J. R.; Kuhn, D.; Klebe, G.; Hilgenfeld, R.; Rademann, J. An efficient
+method for the synthesis of peptide aldehyde libraries employed in the
+discovery of reversible SARS coronavirus main protease (SARS-CoV
+Mpro) inhibitors. ChemBioChem 2006, 7, 1048?1055.",
+90,Cm-FF-H,,O=C(N[C@H](C(N[C@H](C([H])=O)CC1=CC=CC=C1)=O)CC2=CC=CC=C2)/C=C/C3=CC=CC=C3,2.24 ¦ÌM,"Zhu, L.; George, S.; Schmidt, M. F.; Al-Gharabli, S. I.;
+Rademann, J.; Hilgenfeld, R. Peptide aldehyde inhibitors challenge the
+substrate specificity of the SARS-coronavirus main protease. Antiviral
+Res. 2011, 92, 204?212.",
+91,"benzyl ((2S,3S)-3-(tert-butoxy)-1-(((S)-3-cyclohexyl-1-oxo-1-(((S)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)propan-2-yl)amino)-1-oxobutan-2-yl)carbamate",,O=C(N[C@@H]([C@H](C)OC(C)(C)C)C(N[C@@H](CC1CCCCC1)C(N[C@@H](C[C@@H]2CCNC2=O)C([H])=O)=O)=O)OCC3=CC=CC=C3,53 nM,"Yang, S.; Chen, S.- J.; Hsu, M.-F.; Wu, J.-D.; Tseng, C.-T. K.;
+Liu, Y.-F.; Chen, H.-C.; Kuo, C.-W.; Wu, C.-S.; Chang, L.-W.; Chen,
+W.-C.; Liao, S.-Y.; Chang, T.-Y.; Hung, H.-H.; Shr, H.-L.; Liu, C.-Y.;
+Huang, Y.-A.; Chang, L.-Y.; Hsu, J.-C.; Peters, C. J.; Wang, A. H.-J.;
+Hsu, M.-C. Synthesis, crystal structure, structure-activity relationships,
+and antiviral activity of a potent SARS coronavirus 3CL protease
+inhibitor. J. Med. Chem. 2006, 49, 4971?4980.",
+92,"(S)-4-((2S,5S,8S,11S)-11-(hydroxymethyl)-2-isobutyl-5-isopropyl-8-methyl-4,7,10,13-tetraoxo-3,6,9,12-tetraazatetradecanamido)-N,N-dimethyl-5-oxopentanamide",,CC(N[C@@H](CO)C(N[C@@H](C)C(N[C@@H](C(C)C)C(N[C@H](C(N[C@@H](CCC(N(C)C)=O)C([H])=O)=O)CC(C)C)=O)=O)=O)=O,IC50=37 nM,"Akaji, K.; Konno, H.; Onozuka, M.; Makino, A.; Saito, H.;
+Nosaka, K. Evaluation of peptide-aldehyde inhibitors using R188I
+mutant of SARS 3CL protease as a proteolysis-resistant mutant. Bioorg.
+Med. Chem. 2008, 16, 9400?9408.",
+93,"(S)-N-((S)-1-(((S)-1-(1H-imidazol-4-yl)-3-oxopropan-2-yl)amino)-3-cyclohexyl-1-oxopropan-2-yl)-2-((2S,3S)-2-acetamido-3-hydroxybutanamido)-3-methylbutanamide",,CC(N[C@@H]([C@@H](O)C)C(N[C@@H](C(C)C)C(N[C@H](C(N[C@@H](CC1=CNC=N1)C([H])=O)=O)CC2CCCCC2)=O)=O)=O,IC50=98 nM,"Akaji, K.; Konno, H.; Mitsui, H.; Teruya, K.; Shimamoto, Y.;
+Hattori, Y.; Ozaki, T.; Kusunoki, M.; Sanjoh, A. Structure-based
+design, synthesis, and evaluation of peptide-mimetic SARS 3CL
+protease inhibitors. J. Med. Chem. 2011, 54, 7962?73",
+94,(S)-N-((S)-1-(((S)-1-(1H-imidazol-4-yl)-3-oxopropan-2-yl)amino)-3-cyclohexyl-1-oxopropan-2-yl)-2-((S)-2-((S)-2-acetamido-3-hydroxypropanamido)propanamido)-3-methylbutanamide,,CC(N[C@@H](CO)C(N[C@@H](C)C(N[C@@H](C(C)C)C(N[C@H](C(N[C@@H](CC1=CNC=N1)C([H])=O)=O)CC2CCCCC2)=O)=O)=O)=O,IC50=65 nM,"Akaji, K.; Konno, H.; Mitsui, H.; Teruya, K.; Shimamoto, Y.;
+Hattori, Y.; Ozaki, T.; Kusunoki, M.; Sanjoh, A. Structure-based
+design, synthesis, and evaluation of peptide-mimetic SARS 3CL
+protease inhibitors. J. Med. Chem. 2011, 54, 7962?73",
+95,"benzyl ((S)-1-(((S)-6-(dimethylamino)-1-fluoro-2,6-dioxohexan-3-yl)amino)-4-methyl-1-oxopentan-2-yl)carbamate",,O=C(N[C@@H](CC(C)C)C(N[C@H](C(CF)=O)CCC(N(C)C)=O)=O)OCC1=CC=CC=C1,,"Zhang, H.- Z.; Zhang, H.; Kemnitzer, W.; Tseng, B.; Cinatl, J.,
+Jr.; Michaelis, M.; Doerr, H. W.; Cai, S. X. Design and synthesis of
+dipeptidyl glutaminyl fluoromethyl ketones as potent severe acute
+respiratory syndrome coronavirus (SARS-CoV) inhibitors. J. Med.
+Chem. 2006, 49, 1198?1201.",
+96,"benzyl ((2S,3R)-1-(((S)-6-(dimethylamino)-1-fluoro-2,6-dioxohexan-3-yl)amino)-3-methyl-1-oxopentan-2-yl)carbamate",,O=C(N[C@@H]([C@H](C)CC)C(N[C@H](C(CF)=O)CCC(N(C)C)=O)=O)OCC1=CC=CC=C1,,"Zhang, H.- Z.; Zhang, H.; Kemnitzer, W.; Tseng, B.; Cinatl, J.,
+Jr.; Michaelis, M.; Doerr, H. W.; Cai, S. X. Design and synthesis of
+dipeptidyl glutaminyl fluoromethyl ketones as potent severe acute
+respiratory syndrome coronavirus (SARS-CoV) inhibitors. J. Med.
+Chem. 2006, 49, 1198?1201.",
+97,"benzyl ((S)-1-(((S)-6-(dimethylamino)-1-fluoro-2,6-dioxohexan-3-yl)amino)-3-methyl-1-oxobutan-2-yl)carbamate",,O=C(N[C@@H](C(C)C)C(N[C@H](C(CF)=O)CCC(N(C)C)=O)=O)OCC1=CC=CC=C1,,"Zhang, H.- Z.; Zhang, H.; Kemnitzer, W.; Tseng, B.; Cinatl, J.,
+Jr.; Michaelis, M.; Doerr, H. W.; Cai, S. X. Design and synthesis of
+dipeptidyl glutaminyl fluoromethyl ketones as potent severe acute
+respiratory syndrome coronavirus (SARS-CoV) inhibitors. J. Med.
+Chem. 2006, 49, 1198?1201.",
+98,"(5S,8S,11S)-8-isobutyl-5-isopropyl-3,6,9-trioxo-1-phenyl-11-(2,2,2-trifluoroacetyl)-2-oxa-4,7,10-triazatetradecan-14-oic acid",,O=C(N[C@@H](CC(C)C)C(N[C@H](C(C(F)(F)F)=O)CCC(O)=O)=O)[C@H](C(C)C)NC(OCC1=CC=CC=C1)=O,116 ¦ÌM,"Sydnes, M. O.; Hayashi, Y.; Sharma, V. K.; Hamada, T.; Bacha,
+U.; Barrila, J.; Freire, E.; Kiso, Y. Synthesis of glutamic acid and
+glutamine peptides possessing a trifluoromethyl ketone group as
+SARS-CoV 3CL protease inhibitors. Tetrahedron 2006, 62, 8601?
+8609.",
+99,"benzyl ((S)-1-(((S)-1-(((S)-6-amino-1,1,1-trifluoro-2,6-dioxohexan-3-yl)amino)-4-methyl-1-oxopentan-2-yl)amino)-3-methyl-1-oxobutan-2-yl)carbamate",,O=C(N[C@@H](CC(C)C)C(N[C@H](C(C(F)(F)F)=O)CCC(N)=O)=O)[C@H](C(C)C)NC(OCC1=CC=CC=C1)=O,116 ¦ÌM,"Sydnes, M. O.; Hayashi, Y.; Sharma, V. K.; Hamada, T.; Bacha,
+U.; Barrila, J.; Freire, E.; Kiso, Y. Synthesis of glutamic acid and
+glutamine peptides possessing a trifluoromethyl ketone group as
+SARS-CoV 3CL protease inhibitors. Tetrahedron 2006, 62, 8601?
+8609.",
+100,"benzyl ((S)-3-methyl-1-(((S)-4-methyl-1-oxo-1-(((S)-1,1,1-trifluoro-6-morpholino-2,6-dioxohexan-3-yl)amino)pentan-2-yl)amino)-1-oxobutan-2-yl)carbamate",,O=C(N[C@@H](CC(C)C)C(N[C@H](C(C(F)(F)F)=O)CCC(N1CCOCC1)=O)=O)[C@H](C(C)C)NC(OCC2=CC=CC=C2)=O,21 ¦ÌM,"Regnier, T.; Sarma, D.; Hidaka, K.; Bacha, U.; Freire, E.;
+Hayashi, Y.; Kiso, Y. New developments for the design, synthesis and
+biological evaluation of potent SARS-CoV 3CL(pro) inhibitors. Bioorg.
+Med. Chem. Lett. 2009, 19, 2722?2727.",
+101,benzyl ((S)-3-methyl-1-(((S)-4-methyl-1-oxo-1-(((S)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)-1-(thiazol-2-yl)propan-2-yl)amino)pentan-2-yl)amino)-1-oxobutan-2-yl)carbamate,,O=C(N[C@@H](CC(C)C)C(N[C@H](C(C1=NC=CS1)=O)C[C@@H]2CCNC2=O)=O)[C@H](C(C)C)NC(OCC3=CC=CC=C3)=O,2.20 ¦ÌM,"Konno, S.; Thanigaimalai, P.; Yamamoto, T.; Nakada, K.;
+Kakiuchi, R.; Takayama, K.; Yamazaki, Y.; Yakushiji, F.; Akaji, K.; Kiso,
+Y.; Kawasaki, Y.; Chen, S. E.; Freire, E.; Hayashi, Y. Design and
+synthesis of new tripeptide-type SARS-CoV 3CL protease inhibitors
+containing an electrophilic arylketone moiety. Bioorg. Med. Chem.
+2013, 21, 412?424.",
+102,N-((S)-1-(((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-4-methyl-1-oxopentan-2-yl)-4-methoxy-1H-indole-2-carboxamide,,O=C(C1=CC(C(OC)=CC=C2)=C2N1)N[C@@H](CC(C)C)C(N[C@H](C(C3=NC(C=CC=C4)=C4S3)=O)C[C@@H]5CCNC5=O)=O,6.0 nM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Chen, S. E.; Naser-
+Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y. Development of
+potent dipeptide-type SARS-CoV 3CL protease inhibitors with novel
+P3 scaffolds: design, synthesis, biological evaluation, and docking
+studies. Eur. J. Med. Chem. 2013, 68, 372?384.",
+103,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-2-((S)-2-(2-(3-(dimethylamino)phenoxy)acetamido)-3-methylbutanamido)-4-methylpentanamide,,O=C([C@@H](NC(COC1=CC(N(C)C)=CC=C1)=O)C(C)C)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,3.1 nM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+104,"benzyl ((S)-1-(((S)-3-methyl-1-(((S)-4-methyl-1-oxo-1-(((S)-4,4,4-trifluoro-3-oxo-1-phenylbutan-2-yl)amino)pentan-2-yl)amino)-1-oxobutan-2-yl)amino)-1-oxopropan-2-yl)carbamate",,O=C([C@@H](NC([C@H](C)NC(OCC1=CC=CC=C1)=O)=O)C(C)C)N[C@@H](CC(C)C)C(N[C@H](C(C(F)(F)F)=O)CC2=CC=CC=C2)=O,IC50=10 ¦ÌM,"Shao, Y.-M.; Yang, W.-B.; Kuo, T.-H.; Tsai, K.-C.; Lin, C.-H.;
+Yang, A.-S.; Liang, P.-H.; Wong, C.-H. Design, synthesis, and
+evaluation of trifluoromethyl ketones as inhibitors of SARS-CoV
+3CL protease. Bioorg. Med. Chem. 2008, 16, 4652?4660",
+105,benzyl ((S)-3-methyl-1-(((S)-4-methyl-1-oxo-1-(((S)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)-1-(thiazol-2-yl)propan-2-yl)amino)pentan-2-yl)amino)-1-oxobutan-2-yl)carbamate,,O=C([C@@H](NC(OCC1=CC=CC=C1)=O)C(C)C)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC=CS2)=O)C[C@@H]3CCNC3=O)=O,2.2 ¦ÌM,"Regnier, T.; Sharma, D.; Hidaka, K.; Bacha, U.; Freire, E.; Hayashi, Y.; Kiso, Y.
+Bioorg. Med. Chem. Lett. 2009, 19, 2722.",
+106,benzyl ((S)-1-(((S)-1-(((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-4-methyl-1-oxopentan-2-yl)amino)-3-methyl-1-oxobutan-2-yl)carbamate,,O=C([C@@H](NC(OCC1=CC=CC=C1)=O)C(C)C)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,4.1 nM,"S. Konno, P. Thanigaimalai, K. Nakada, T. Yamamoto, Y. Yamazaki, F. Yakushiji,
+K. Akaji, Y. Kiso, Y. Kawasaki, E. Freire, Y. Hayashi, Bioorg. Med. Chem. 21
+(2013) 412-424.",
+107,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-4-methyl-2-((S)-3-methyl-2-(2-phenoxyacetamido)butanamido)pentanamide,,O=C([C@@H](NC(COC1=CC=CC=C1)=O)C(C)C)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,22 nM,"S. Konno, P. Thanigaimalai, K. Nakada, T. Yamamoto, Y. Yamazaki, F. Yakushiji,
+K. Akaji, Y. Kiso, Y. Kawasaki, E. Freire, Y. Hayashi, Bioorg. Med. Chem. 21
+(2013) 412-424.",
+108,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-2-((S)-2-(2-(4-methoxyphenoxy)acetamido)-3-methylbutanamido)-4-methylpentanamide,,O=C([C@@H](NC(COC1=CC=C(OC)C=C1)=O)C(C)C)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,14 nM,"S. Konno, P. Thanigaimalai, K. Nakada, T. Yamamoto, Y. Yamazaki, F. Yakushiji,
+K. Akaji, Y. Kiso, Y. Kawasaki, E. Freire, Y. Hayashi, Bioorg. Med. Chem. 21
+(2013) 412-424.",
+109,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-2-((S)-2-(2-(4-hydroxyphenoxy)acetamido)-3-methylbutanamido)-4-methylpentanamide,,O=C([C@@H](NC(COC1=CC=C(O)C=C1)=O)C(C)C)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,11 nM,"S. Konno, P. Thanigaimalai, K. Nakada, T. Yamamoto, Y. Yamazaki, F. Yakushiji,
+K. Akaji, Y. Kiso, Y. Kawasaki, E. Freire, Y. Hayashi, Bioorg. Med. Chem. 21
+(2013) 412-424.",
+110,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-4-methyl-2-((S)-3-methyl-2-(2-(pyridin-3-yloxy)acetamido)butanamido)pentanamide,,O=C([C@@H](NC(COC1=CC=CN=C1)=O)C(C)C)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,0.22 ¦ÌM,"S. Konno, P. Thanigaimalai, K. Nakada, T. Yamamoto, Y. Yamazaki, F. Yakushiji,
+K. Akaji, Y. Kiso, Y. Kawasaki, E. Freire, Y. Hayashi, Bioorg. Med. Chem. 21
+(2013) 412-424.",
+111,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-4-methyl-2-((S)-3-methyl-2-(2-(phenylamino)acetamido)butanamido)pentanamide,,O=C([C@@H](NC(CNC1=CC=CC=C1)=O)C(C)C)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,0.22 ¦ÌM,"S. Konno, P. Thanigaimalai, K. Nakada, T. Yamamoto, Y. Yamazaki, F. Yakushiji,
+K. Akaji, Y. Kiso, Y. Kawasaki, E. Freire, Y. Hayashi, Bioorg. Med. Chem. 21
+(2013) 412-424.",
+112,benzyl ((S)-1-(((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-4-methyl-1-oxopentan-2-yl)carbamate,,O=C(OCC1=CC=CC=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,0.46 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+113,benzyl ((S)-1-(((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-1-oxohexan-2-yl)carbamate,,O=C(OCC1=CC=CC=C1)N[C@@H](CCCC)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,1.60 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+114,benzyl ((S)-1-(((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-3-methyl-1-oxobutan-2-yl)carbamate,,O=C(OCC1=CC=CC=C1)N[C@@H](C(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,1.71 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+115,benzyl ((S)-1-(((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-4-(methylthio)-1-oxobutan-2-yl)carbamate,,O=C(OCC1=CC=CC=C1)N[C@@H](CCSC)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,9.40 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+116,benzyl ((S)-1-(((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-1-oxo-3-phenylpropan-2-yl)carbamate,,O=C(OCC1=CC=CC=C1)N[C@@H](CC2=CC=CC=C2)C(N[C@H](C(C3=NC(C=CC=C4)=C4S3)=O)C[C@@H]5CCNC5=O)=O,1.20 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+117,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-4-methyl-2-(3-methylbutanamido)pentanamide,,O=C(CC(C)C)N[C@@H](CC(C)C)C(N[C@H](C(C1=NC(C=CC=C2)=C2S1)=O)C[C@@H]3CCNC3=O)=O,5.90 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+118,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-4-methyl-2-(2-phenylacetamido)pentanamide,,O=C(CC1=CC=CC=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,3.20 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+119,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-2-(2-(4-methoxyphenyl)acetamido)-4-methylpentanamide,,O=C(CC1=CC=C(OC)C=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,0.42 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+120,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-2-(3-(4-methoxyphenyl)propanamido)-4-methylpentanamide,,O=C(CCC1=CC=C(OC)C=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,0.61 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+121,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-4-methyl-2-(3-(pyridin-3-yl)propanamido)pentanamide,,O=C(CCC1=CC=CN=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,7.4 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+122,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-2-cinnamamido-4-methylpentanamide,,O=C(/C=C/C1=CC=CC=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,0.69 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+123,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-2-((E)-3-(4-methoxyphenyl)acrylamido)-4-methylpentanamide,,O=C(/C=C/C1=CC=C(OC)C=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,0.70 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+124,"(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-2-((E)-3-(3,4-dimethoxyphenyl)acrylamido)-4-methylpentanamide",,O=C(/C=C/C1=CC=C(OC)C(OC)=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,1.30 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+125,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-4-methyl-2-(2-phenoxyacetamido)pentanamide,,O=C(N[C@H](C(N[C@@H](C[C@@H]1CCNC1=O)C(C2=NC3=C(S2)C=CC=C3)=O)=O)CC(C)C)/C=C/C4=CC=C(C=C4)OC,0.56 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+126,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-2-(2-(4-methoxyphenoxy)acetamido)-4-methylpentanamide,,O=C(COC1=CC=C(OC)C=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,1.56 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+127,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-2-(2-(4-hydroxyphenoxy)acetamido)-4-methylpentanamide,,O=C(COC1=CC=C(O)C=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,8.4 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+128,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-2-(2-(3-(dimethylamino)phenoxy)acetamido)-4-methylpentanamide,,O=C(COC1=CC=CC(N(C)C)=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,0.84 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+129,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-2-(2-((4-methoxyphenyl)amino)acetamido)-4-methylpentanamide,,O=C(CNC1=CC=C(OC)C=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,3.20 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+130,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-2-(2-((3-methoxyphenyl)amino)acetamido)-4-methylpentanamide,,O=C(CNC1=CC(OC)=CC=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,0.39 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+131,(S)-N-((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)-2-(2-((2-methoxyphenyl)amino)acetamido)-4-methylpentanamide,,O=C(CNC1=C(OC)C=CC=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC(C=CC=C3)=C3S2)=O)C[C@@H]4CCNC4=O)=O,0.33 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+132,benzyl ((S)-4-methyl-1-oxo-1-(((S)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)-1-(5-phenylthiazol-2-yl)propan-2-yl)amino)pentan-2-yl)carbamate,,O=C(OCC1=CC=CC=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC=C(C3=CC=CC=C3)S2)=O)C[C@@H]4CCNC4=O)=O,0.66 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+133,benzyl ((S)-1-(((S)-1-(5-(2-methoxyphenyl)thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-4-methyl-1-oxopentan-2-yl)carbamate,,O=C(OCC1=CC=CC=C1)N[C@@H](CC(C)C)C(N[C@H](C(C2=NC=C(C3=C(OC)C=CC=C3)S2)=O)C[C@@H]4CCNC4=O)=O,2.5 ¦ÌM,"Thanigaimalai, P.; Konno, S.; Yamamoto, T.; Koiwai, Y.;
+Taguchi, A.; Takayama, K.; Yakushiji, F.; Akaji, K.; Kiso, Y.; Kawasaki,
+Y.; Chen, S. E.; Naser-Tavakolian, A.; Scho?n, A.; Freire, E.; Hayashi, Y.
+Design, synthesis, and biological evaluation of novel dipeptide-type
+SARS-CoV 3CL protease inhibitors: structure-activity relationship
+study. Eur. J. Med. Chem. 2013, 65, 436?447.",
+134,N-((S)-1-(((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-4-methyl-1-oxopentan-2-yl)-1H-indole-2-carboxamide,,O=C(C1=CC(C=CC=C2)=C2N1)N[C@@H](CC(C)C)C(N[C@H](C(C3=NC(C=CC=C4)=C4S3)=O)C[C@@H]5CCNC5=O)=O,0.065 ¦ÌM,P. Thanigaimalai et al. / European Journal of Medicinal Chemistry 68 (2013) 372-384,
+135,N-((S)-1-(((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-4-methyl-1-oxopentan-2-yl)-5-methoxy-1H-indole-2-carboxamide,,O=C(C1=CC(C=C(OC)C=C2)=C2N1)N[C@@H](CC(C)C)C(N[C@H](C(C3=NC(C=CC=C4)=C4S3)=O)C[C@@H]5CCNC5=O)=O,0.067 ¦ÌM,P. Thanigaimalai et al. / European Journal of Medicinal Chemistry 68 (2013) 372-384,
+136,N-((S)-1-(((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-4-methyl-1-oxopentan-2-yl)-5-chloro-1H-indole-2-carboxamide,,O=C(C1=CC(C=C(Cl)C=C2)=C2N1)N[C@@H](CC(C)C)C(N[C@H](C(C3=NC(C=CC=C4)=C4S3)=O)C[C@@H]5CCNC5=O)=O,0.028 ¦ÌM,P. Thanigaimalai et al. / European Journal of Medicinal Chemistry 68 (2013) 372-384,
+137,N-((S)-1-(((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-4-methyl-1-oxopentan-2-yl)-4-methoxy-1H-indole-2-carboxamide,,O=C(C1=CC(C(OC)=CC=C2)=C2N1)N[C@@H](CC(C)C)C(N[C@H](C(C3=NC(C=CC=C4)=C4S3)=O)C[C@@H]5CCNC5=O)=O,0.0063 ¦ÌM,P. Thanigaimalai et al. / European Journal of Medicinal Chemistry 68 (2013) 372-384,
+138,N-((S)-1-(((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-4-methyl-1-oxopentan-2-yl)-4-isopropoxy-1H-indole-2-carboxamide,,O=C(C1=CC(C(OC(C)C)=CC=C2)=C2N1)N[C@@H](CC(C)C)C(N[C@H](C(C3=NC(C=CC=C4)=C4S3)=O)C[C@@H]5CCNC5=O)=O,0.048 ¦ÌM,P. Thanigaimalai et al. / European Journal of Medicinal Chemistry 68 (2013) 372-384,
+139,N-((S)-1-(((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-4-methyl-1-oxopentan-2-yl)-4-isobutoxy-1H-indole-2-carboxamide,,O=C(C1=CC(C(OCC(C)C)=CC=C2)=C2N1)N[C@@H](CC(C)C)C(N[C@H](C(C3=NC(C=CC=C4)=C4S3)=O)C[C@@H]5CCNC5=O)=O,0.030 ¦ÌM,P. Thanigaimalai et al. / European Journal of Medicinal Chemistry 68 (2013) 372-384,
+140,N-((S)-1-(((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-4-methyl-1-oxopentan-2-yl)-4-hydroxy-1H-indole-2-carboxamide,,O=C(C1=CC(C(O)=CC=C2)=C2N1)N[C@@H](CC(C)C)C(N[C@H](C(C3=NC(C=CC=C4)=C4S3)=O)C[C@@H]5CCNC5=O)=O,0.026 ¦ÌM,P. Thanigaimalai et al. / European Journal of Medicinal Chemistry 68 (2013) 372-384,
+141,N-((S)-1-(((S)-1-(benzo[d]thiazol-2-yl)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-4-methyl-1-oxopentan-2-yl)-1H-benzo[d]imidazole-2-carboxamide,,O=C(C1=NC(C=CC=C2)=C2N1)N[C@@H](CC(C)C)C(N[C@H](C(C3=NC(C=CC=C4)=C4S3)=O)C[C@@H]5CCNC5=O)=O,0.022 ¦ÌM,P. Thanigaimalai et al. / European Journal of Medicinal Chemistry 68 (2013) 372-384,
+142,"tert-butyl (2-(2,3-dichloro-4-(2-methylenebutanoyl)phenoxy)acetyl)carbamate",,ClC1=C(Cl)C(C(C(CC)=C)=O)=CC=C1OCC(NC(OC(C)(C)C)=O)=O,45.8 ¦ÌM,"Kaeppler, U.; Stiefl, N.; Schiller, M.; Vicik, R.; Breuning, A.;
+Schmitz, W.; Rupprecht, D.; Schmuck, C.; Baumann, K.; Ziebuhr, J.;
+Schirmeister, T. A new lead for nonpeptidic active-site-directed
+inhibitors of the severe acute respiratory syndrome coronavirus main
+protease discovered by a combination of screening and docking
+methods. J. Med. Chem. 2005, 48, 6832?6842.",
+143,"1-amino-2-methyl-1-oxopropan-2-yl (2-(2,3-dichloro-4-(2-methylenebutanoyl)phenoxy)acetyl)carbamate",,ClC1=C(Cl)C(C(C(CC)=C)=O)=CC=C1OCC(NC(OC(C(N)=O)(C)C)=O)=O,35.3 ¦ÌM,"Kaeppler, U.; Stiefl, N.; Schiller, M.; Vicik, R.; Breuning, A.;
+Schmitz, W.; Rupprecht, D.; Schmuck, C.; Baumann, K.; Ziebuhr, J.;
+Schirmeister, T. A new lead for nonpeptidic active-site-directed
+inhibitors of the severe acute respiratory syndrome coronavirus main
+protease discovered by a combination of screening and docking
+methods. J. Med. Chem. 2005, 48, 6832?6842.",
+144,"5-((4-methylpiperidin-1-yl)sulfonyl)indoline-2,3-dione",,O=C(C1=CC(S(=O)(N2CCC(C)CC2)=O)=CC=C1N3)C3=O,IC50=1.18 ¡À 0.11 ¦ÌM,"Liu, W.; Zhu, H.-M.; Niu, G.-J.; Shi, E.-Z.; Chen, J.; Sun, B.;
+Chen, W.-Q.; Zhou, H.-G.; Yang, C. Synthesis, modification and
+docking studies of 5-sulfonyl isatin derivatives as SARS-CoV 3C-like
+protease inhibitors. Bioorg. Med. Chem. 2014, 22, 292?302.",
+145,"1-methyl-5-((4-methylpiperidin-1-yl)sulfonyl)indoline-2,3-dione",,O=C(C1=CC(S(=O)(N2CCC(C)CC2)=O)=CC=C1N3C)C3=O,IC50=1.04 ¡À 0.01 ¦ÌM,"Liu, W.; Zhu, H.-M.; Niu, G.-J.; Shi, E.-Z.; Chen, J.; Sun, B.;
+Chen, W.-Q.; Zhou, H.-G.; Yang, C. Synthesis, modification and
+docking studies of 5-sulfonyl isatin derivatives as SARS-CoV 3C-like
+protease inhibitors. Bioorg. Med. Chem. 2014, 22, 292?302.",
+146,"1-((3,5-dimethylisoxazol-4-yl)methyl)-2,3-dioxoindoline-5-carbonitrile",,O=C(C1=CC(C#N)=CC=C1N2CC3=C(C)ON=C3C)C2=O,IC50=7.2 ¦ÌM,"Chen, L. R.; Wang, Y. C.; Lin, Y. W.; Chou, S. Y.; Chen, S. F.;
+Liu, L. T.; Wu, Y. T.; Kuo, C. J.; Chen, T. S. S.; Juang, S. H. Synthesis
+and evaluation of isatin derivatives as effective SARS coronavirus 3CL
+protease inhibitors. Bioorg. Med. Chem. Lett. 2005, 15, 3058?3062.",
+147,"1-(2-chloro-4-fluorobenzyl)-5-iodoindoline-2,3-dione",,O=C(C1=CC(I)=CC=C1N2CC3=CC=C(F)C=C3Cl)C2=O,IC50=9.4 ¦ÌM,"Chen, L. R.; Wang, Y. C.; Lin, Y. W.; Chou, S. Y.; Chen, S. F.;
+Liu, L. T.; Wu, Y. T.; Kuo, C. J.; Chen, T. S. S.; Juang, S. H. Synthesis
+and evaluation of isatin derivatives as effective SARS coronavirus 3CL
+protease inhibitors. Bioorg. Med. Chem. Lett. 2005, 15, 3058?3062.",
+148,"1-(benzo[b]thiophen-2-ylmethyl)-7-nitroindoline-2,3-dione",,O=C(C1=CC=CC([N+]([O-])=O)=C1N2CC3=CC(C=CC=C4)=C4S3)C2=O,IC50=2.0 ¦ÌM,"Chen, L. R.; Wang, Y. C.; Lin, Y. W.; Chou, S. Y.; Chen, S. F.;
+Liu, L. T.; Wu, Y. T.; Kuo, C. J.; Chen, T. S. S.; Juang, S. H. Synthesis
+and evaluation of isatin derivatives as effective SARS coronavirus 3CL
+protease inhibitors. Bioorg. Med. Chem. Lett. 2005, 15, 3058?3062.",
+149,"1-(benzo[b]thiophen-2-ylmethyl)-7-bromoindoline-2,3-dione",,O=C(C1=CC=CC(Br)=C1N2CC3=CC(C=CC=C4)=C4S3)C2=O,IC50=0.98 ¦ÌM,"Chen, L. R.; Wang, Y. C.; Lin, Y. W.; Chou, S. Y.; Chen, S. F.;
+Liu, L. T.; Wu, Y. T.; Kuo, C. J.; Chen, T. S. S.; Juang, S. H. Synthesis
+and evaluation of isatin derivatives as effective SARS coronavirus 3CL
+protease inhibitors. Bioorg. Med. Chem. Lett. 2005, 15, 3058?3062.",
+150,"1-(benzo[b]thiophen-2-ylmethyl)-5-fluoroindoline-2,3-dione",,O=C(C1=CC(F)=CC=C1N2CC3=CC(C=CC=C4)=C4S3)C2=O,IC50=4.82 ¦ÌM,"Chen, L. R.; Wang, Y. C.; Lin, Y. W.; Chou, S. Y.; Chen, S. F.;
+Liu, L. T.; Wu, Y. T.; Kuo, C. J.; Chen, T. S. S.; Juang, S. H. Synthesis
+and evaluation of isatin derivatives as effective SARS coronavirus 3CL
+protease inhibitors. Bioorg. Med. Chem. Lett. 2005, 15, 3058?3062.",
+151,"1-(benzo[b]thiophen-2-ylmethyl)-5-iodoindoline-2,3-dione",,O=C(C1=CC(I)=CC=C1N2CC3=CC(C=CC=C4)=C4S3)C2=O,IC50=0.95 ¦ÌM,"Chen, L. R.; Wang, Y. C.; Lin, Y. W.; Chou, S. Y.; Chen, S. F.;
+Liu, L. T.; Wu, Y. T.; Kuo, C. J.; Chen, T. S. S.; Juang, S. H. Synthesis
+and evaluation of isatin derivatives as effective SARS coronavirus 3CL
+protease inhibitors. Bioorg. Med. Chem. Lett. 2005, 15, 3058?3062.",
+152,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-(((2S,3S,4S,5S,6R)-3,4,5-trihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)-4H-chromen-4-one",,O=C1C2=C(O)C=C(O)C=C2OC(C3=CC(O)=C(O)C=C3)=C1O[C@H]4[C@@H](O)[C@@H](O)[C@H](O)[C@@H](C)O4,IC50=24.14 ¦ÌM,"Chen, L.; Li, J.; Luo, C.; Liu, H.; Xu, W.; Chen, G.; Liew, O. W.;
+Zhu, W.; Puah, C. M.; Shen, X.; Jiang, H. Binding interaction of
+quercetin-3-beta-galactoside and its synthetic derivatives with SARSCoV
+3CL(pro): Structure-activity relationship studies reveal salient
+pharmacophore features. Bioorg. Med. Chem. 2006, 14, 8295?8306.",
+153,"8-(5-(5,7-dihydroxy-4-oxo-4H-chromen-2-yl)-2-hydroxyphenyl)-5,7-dihydroxy-2-(4-hydroxyphenyl)-4H-chromen-4-one",,O=C1C2=C(O)C=C(O)C=C2OC(C3=CC(C4=C(O)C=C(O)C5=C4OC(C6=CC=C(O)C=C6)=CC5=O)=C(O)C=C3)=C1,IC50=8.3 ¦ÌM,"Ryu, Y. B.; Jeong, H. J.; Kim, J. H.; Kim, Y. M.; Park, J.-Y.; Kim,
+D.; Naguyen, T. T. H.; Park, S.-J.; Chang, J. S.; Park, K. H.
+Biflavonoids from Torreya nucifera displaying SARS-CoV 3CLpro
+inhibition. Bioorg. Med. Chem. 2010, 18, 7940?7947.",
+154,"5,7-dihydroxy-8-(5-(5-hydroxy-7-methoxy-4-oxo-4H-chromen-2-yl)-2-methoxyphenyl)-2-(4-hydroxyphenyl)-4H-chromen-4-one",,O=C1C2=C(O)C=C(OC)C=C2OC(C3=CC(C4=C(O)C=C(O)C5=C4OC(C6=CC=C(O)C=C6)=CC5=O)=C(OC)C=C3)=C1,IC50=32.0 ¦ÌM,"Ryu, Y. B.; Jeong, H. J.; Kim, J. H.; Kim, Y. M.; Park, J.-Y.; Kim,
+D.; Naguyen, T. T. H.; Park, S.-J.; Chang, J. S.; Park, K. H.
+Biflavonoids from Torreya nucifera displaying SARS-CoV 3CLpro
+inhibition. Bioorg. Med. Chem. 2010, 18, 7940?7947.",
+155,"5,7-dihydroxy-8-(5-(5-hydroxy-7-methoxy-4-oxo-4H-chromen-2-yl)-2-methoxyphenyl)-2-(4-methoxyphenyl)-4H-chromen-4-one",,O=C1C2=C(O)C=C(OC)C=C2OC(C3=CC(C4=C(O)C=C(O)C5=C4OC(C6=CC=C(OC)C=C6)=CC5=O)=C(OC)C=C3)=C1,IC50=38.4 ¦ÌM,"Ryu, Y. B.; Jeong, H. J.; Kim, J. H.; Kim, Y. M.; Park, J.-Y.; Kim,
+D.; Naguyen, T. T. H.; Park, S.-J.; Chang, J. S.; Park, K. H.
+Biflavonoids from Torreya nucifera displaying SARS-CoV 3CLpro
+inhibition. Bioorg. Med. Chem. 2010, 18, 7940?7947.",
+156,celastrol,,O=C1C(O)=C(C)C2=CC=C([C@](CC[C@]3(C)[C@@]4([H])C[C@](C)(C(O)=O)CC3)(C)[C@@]4(C)CC5)[C@]5(C)C2=C1,IC50=10.3 ¦ÌM,"Ryu, Y. B.; Park, S.-J.; Kim, Y. M.; Lee, J.-Y.; Seo, W. D.; Chang,
+J. S.; Park, K. H.; Rho, M.-C.; Lee, W. S. SARS-CoV 3CLpro inhibitory
+effects of quinone-methide triterpenes from Tripterygium regelii.
+Bioorg. Med. Chem. Lett. 2010, 20, 1873?1876.",
+157,pristimererin,,O=C1C(O)=C(C)C2=CC=C([C@](CC[C@]3(C)[C@@]4([H])C[C@](C)(C(OC)=O)CC3)(C)[C@@]4(C)CC5)[C@]5(C)C2=C1,IC50=5.5 ¦ÌM,"Ryu, Y. B.; Park, S.-J.; Kim, Y. M.; Lee, J.-Y.; Seo, W. D.; Chang,
+J. S.; Park, K. H.; Rho, M.-C.; Lee, W. S. SARS-CoV 3CLpro inhibitory
+effects of quinone-methide triterpenes from Tripterygium regelii.
+Bioorg. Med. Chem. Lett. 2010, 20, 1873?1876.",
+158,tingenone,,O=C1C(O)=C(C)C2=CC=C([C@](CC[C@](C3)(C)[C@@]4([H])C[C@@H](C)C3=O)(C)[C@@]4(C)CC5)[C@]5(C)C2=C1,IC50=9.9 ¦ÌM,"Ryu, Y. B.; Park, S.-J.; Kim, Y. M.; Lee, J.-Y.; Seo, W. D.; Chang,
+J. S.; Park, K. H.; Rho, M.-C.; Lee, W. S. SARS-CoV 3CLpro inhibitory
+effects of quinone-methide triterpenes from Tripterygium regelii.
+Bioorg. Med. Chem. Lett. 2010, 20, 1873?1876.",
+159,iguesterin,,O=C1C(O)=C(C)C2=CC=C([C@](CC[C@]3(C)[C@@]4([H])CC(C)=CC3)(C)[C@@]4(C)CC5)[C@]5(C)C2=C1,IC50=2.6 ¦ÌM,"Ryu, Y. B.; Park, S.-J.; Kim, Y. M.; Lee, J.-Y.; Seo, W. D.; Chang,
+J. S.; Park, K. H.; Rho, M.-C.; Lee, W. S. SARS-CoV 3CLpro inhibitory
+effects of quinone-methide triterpenes from Tripterygium regelii.
+Bioorg. Med. Chem. Lett. 2010, 20, 1873?1876.",
+160,"(2R,4aS,6aS,12bS,14aS,14bR)-10,11-dihydroxy-2,4a,6a,9,12b,14a-hexamethyl-1,2,3,4,4a,5,6,6a,8,12b,13,14,14a,14b-tetradecahydropicene-2-carboxylic acid",,OC1=CC2=C(CC=C3[C@@]2(C)CC[C@]4(C)[C@]3(C)CC[C@]5(C)[C@@]4([H])C[C@](C)(C(O)=O)CC5)C(C)=C1O,IC50=21.7 ¦ÌM,"Ryu, Y. B.; Park, S.-J.; Kim, Y. M.; Lee, J.-Y.; Seo, W. D.; Chang,
+J. S.; Park, K. H.; Rho, M.-C.; Lee, W. S. SARS-CoV 3CLpro inhibitory
+effects of quinone-methide triterpenes from Tripterygium regelii.
+Bioorg. Med. Chem. Lett. 2010, 20, 1873?1876.",
+161,"2-((2,4-dichloro-5-methylphenyl)sulfonyl)-1,3-dinitro-5-(trifluoromethyl)benzene",,O=S(C1=C([N+]([O-])=O)C=C(C(F)(F)F)C=C1[N+]([O-])=O)(C2=C(Cl)C=C(Cl)C(C)=C2)=O,IC50=0.3 ¦ÌM,"Lu, I.-L.; Mahindroo, N.; Liang, P.-H.; Peng, Y.-H.; Kuo, C.-J.;
+Tsai, K.-C.; Hsieh, H.-P.; Chao, Y.-S.; Wu, S.-Y. Structure-based drug
+design and structural biology study of novel nonpeptide inhibitors of
+severe acute respiratory syndrome coronavirus main protease. J. Med.
+Chem. 2006, 49, 5154?5161.",
+162,"sulfonylbis(4,1-phenylene) bis(2,3,3-trichloroacrylate)",,O=S(C1=CC=C(OC(/C(Cl)=C(Cl)\Cl)=O)C=C1)(C2=CC=C(OC(/C(Cl)=C(Cl)\Cl)=O)C=C2)=O,IC50=0.9 ¦ÌM,"Lu, I.-L.; Mahindroo, N.; Liang, P.-H.; Peng, Y.-H.; Kuo, C.-J.;
+Tsai, K.-C.; Hsieh, H.-P.; Chao, Y.-S.; Wu, S.-Y. Structure-based drug
+design and structural biology study of novel nonpeptide inhibitors of
+severe acute respiratory syndrome coronavirus main protease. J. Med.
+Chem. 2006, 49, 5154?5161.",
+163,"5-((4-chlorophenyl)sulfonyl)pyrimidine-2,4-diamine",,O=S(C1=CN=C(N)N=C1N)(C2=CC=C(Cl)C=C2)=O,IC50=6 ¦ÌM,"Lu, I.-L.; Mahindroo, N.; Liang, P.-H.; Peng, Y.-H.; Kuo, C.-J.;
+Tsai, K.-C.; Hsieh, H.-P.; Chao, Y.-S.; Wu, S.-Y. Structure-based drug
+design and structural biology study of novel nonpeptide inhibitors of
+severe acute respiratory syndrome coronavirus main protease. J. Med.
+Chem. 2006, 49, 5154?5161.",
+164,5-(1-methyl-3-(trifluoromethyl)-1H-pyrazol-5-yl)-N-(3-methyl-4-nitroisoxazol-5-yl)thiophene-2-carboxamide,,CN1N=C(C(F)(F)F)C=C1C2=CC=C(C(NC3=C([N+]([O-])=O)C(C)=NO3)=O)S2,IC50=5 ¦ÌM,"Lu, I.-L.; Mahindroo, N.; Liang, P.-H.; Peng, Y.-H.; Kuo, C.-J.;
+Tsai, K.-C.; Hsieh, H.-P.; Chao, Y.-S.; Wu, S.-Y. Structure-based drug
+design and structural biology study of novel nonpeptide inhibitors of
+severe acute respiratory syndrome coronavirus main protease. J. Med.
+Chem. 2006, 49, 5154?5161.",
+165,"S-(5-(trifluoromethyl)-4H-1,2,4-triazol-3-yl) 5-(phenylethynyl)furan-2-carbothioate",,O=C(C1=CC=C(C#CC2=CC=CC=C2)O1)SC3=NN=C(C(F)(F)F)N3,IC50=3 ¦ÌM,"Lu, I.-L.; Mahindroo, N.; Liang, P.-H.; Peng, Y.-H.; Kuo, C.-J.;
+Tsai, K.-C.; Hsieh, H.-P.; Chao, Y.-S.; Wu, S.-Y. Structure-based drug
+design and structural biology study of novel nonpeptide inhibitors of
+severe acute respiratory syndrome coronavirus main protease. J. Med.
+Chem. 2006, 49, 5154?5161.",
+166,"N-(3,5-dichlorophenyl)-2-((4-(2-phenylthiazol-4-yl)pyrimidin-2-yl)thio)acetamide",,O=C(NC1=CC(Cl)=CC(Cl)=C1)CSC2=NC=CC(C3=CSC(C4=CC=CC=C4)=N3)=N2,IC50=3 ¦ÌM,"Tsai, K.-C.; Chen, S.-Y.; Liang, P.-H.; Lu, I.-L.; Mahindroo, N.;
+Hsieh, H.-P.; Chao, Y.-S.; Liu, L.; Liu, D.; Lien, W.; Lin, T.-H.; Wu, S.-
+Y. Discovery of a novel family of SARS-CoV protease inhibitors by
+virtual screening and 3D-QSAR studies. J. Med. Chem. 2006, 49,
+3485?3495.",
+167,N-(4-chlorophenyl)-2-((4-(5-(1-methyl-5-(trifluoromethyl)-1H-pyrazol-3-yl)thiophen-2-yl)pyrimidin-2-yl)thio)acetamide,,O=C(NC1=CC=C(Cl)C=C1)CSC2=NC=CC(C3=CC=C(C(C=C4C(F)(F)F)=NN4C)S3)=N2,IC50=10 ¦ÌM,"Tsai, K.-C.; Chen, S.-Y.; Liang, P.-H.; Lu, I.-L.; Mahindroo, N.;
+Hsieh, H.-P.; Chao, Y.-S.; Liu, L.; Liu, D.; Lien, W.; Lin, T.-H.; Wu, S.-
+Y. Discovery of a novel family of SARS-CoV protease inhibitors by
+virtual screening and 3D-QSAR studies. J. Med. Chem. 2006, 49,
+3485?3495.",
+168,N-(4-chlorophenyl)-2-((4-(4-methyl-5-(4-methylthiazol-2-yl)-2-(methylthio)thiophen-3-yl)pyrimidin-2-yl)thio)acetamide,,O=C(NC1=CC=C(Cl)C=C1)CSC2=NC=CC(C3=C(SC)SC(C4=NC(C)=CS4)=C3C)=N2,IC50=11 ¦ÌM,"Tsai, K.-C.; Chen, S.-Y.; Liang, P.-H.; Lu, I.-L.; Mahindroo, N.;
+Hsieh, H.-P.; Chao, Y.-S.; Liu, L.; Liu, D.; Lien, W.; Lin, T.-H.; Wu, S.-
+Y. Discovery of a novel family of SARS-CoV protease inhibitors by
+virtual screening and 3D-QSAR studies. J. Med. Chem. 2006, 49,
+3485?3495.",
+169,N-(2-chlorophenyl)-2-((4-(4-methyl-5-(4-methylthiazol-2-yl)-2-(methylthio)thiophen-3-yl)pyrimidin-2-yl)thio)acetamide,,O=C(NC1=CC=CC=C1Cl)CSC2=NC=CC(C3=C(SC)SC(C4=NC(C)=CS4)=C3C)=N2,IC50=12 ¦ÌM,"Tsai, K.-C.; Chen, S.-Y.; Liang, P.-H.; Lu, I.-L.; Mahindroo, N.;
+Hsieh, H.-P.; Chao, Y.-S.; Liu, L.; Liu, D.; Lien, W.; Lin, T.-H.; Wu, S.-
+Y. Discovery of a novel family of SARS-CoV protease inhibitors by
+virtual screening and 3D-QSAR studies. J. Med. Chem. 2006, 49,
+3485?3495.",
+170,5-chloropyridin-3-yl thiophene-2-carboxylate,,O=C(OC1=CN=CC(Cl)=C1)C2=CC=CS2,IC50=0.5 ¦ÌM,"Blanchard, J. E.; Elowe, N. H.; Huitema, C.; Fortin, P. D.;
+Cechetto, J. D.; Eltis, L. D.; Brown, E. D. High-throughput screening
+identifies inhibitors of the SARS coronavirus main proteinase. Chem.
+Biol. 2004, 11, 1445?1453.",
+171,5-chloropyridin-3-yl furan-2-carboxylate,,O=C(OC1=CN=CC(Cl)=C1)C2=CC=CO2,IC50=60 nM,"Zhang, J.; Pettersson, H. I.; Huitema, C.; Niu, C.; Yin, J.;
+James, M. N.; Eltis, L. D.; Vederas, J. C. Design, synthesis, and
+evaluation of inhibitors for severe acute respiratory syndrome 3C-like
+protease based on phthalhydrazide ketones or heteroaromatic esters. J.
+Med. Chem. 2007, 50, 1850?1864.",form a covalent bond
+172,5-bromopyridin-3-yl furan-2-carboxylate,,O=C(OC1=CN=CC(Br)=C1)C2=CC=CO2,IC50=50 nM,"Zhang, J.; Pettersson, H. I.; Huitema, C.; Niu, C.; Yin, J.;
+James, M. N.; Eltis, L. D.; Vederas, J. C. Design, synthesis, and
+evaluation of inhibitors for severe acute respiratory syndrome 3C-like
+protease based on phthalhydrazide ketones or heteroaromatic esters. J.
+Med. Chem. 2007, 50, 1850?1864.",
+173,5-chloropyridin-3-yl 1H-indole-2-carboxylate,,O=C(OC1=CN=CC(Cl)=C1)C2=CC3=C(C=CC=C3)N2,IC50=65 nM,"Zhang, J.; Pettersson, H. I.; Huitema, C.; Niu, C.; Yin, J.;
+James, M. N.; Eltis, L. D.; Vederas, J. C. Design, synthesis, and
+evaluation of inhibitors for severe acute respiratory syndrome 3C-like
+protease based on phthalhydrazide ketones or heteroaromatic esters. J.
+Med. Chem. 2007, 50, 1850?1864.",
+174,5-chloropyridin-3-yl 5-(4-chlorophenyl)furan-2-carboxylate,,O=C(OC1=CN=CC(Cl)=C1)C2=CC=C(C3=CC=C(Cl)C=C3)O2,IC50=63 nM,"Niu, C.; Yin, J.; Zhang, J.; Vederas, J. C.; James, M. N.
+Molecular docking identifies the binding of 3-chloropyridine moieties
+specifically to the S1 pocket of SARS-CoV Mpro. Bioorg. Med. Chem.
+2008, 16, 293?302.",
+175,5-chloropyridin-3-yl 5-(4-nitrophenyl)furan-2-carboxylate,,O=C(OC1=CN=CC(Cl)=C1)C2=CC=C(C3=CC=C([N+]([O-])=O)C=C3)O2,IC50=60 nM,"Niu, C.; Yin, J.; Zhang, J.; Vederas, J. C.; James, M. N.
+Molecular docking identifies the binding of 3-chloropyridine moieties
+specifically to the S1 pocket of SARS-CoV Mpro. Bioorg. Med. Chem.
+2008, 16, 293?302.",
+176,5-chloropyridin-3-yl 1H-indole-5-carboxylate,,O=C(C1=CC2=C(C=C1)NC=C2)OC3=CN=CC(Cl)=C3,IC50=0.31 ¦ÌM,"Ghosh, A. K.; Gong, G.; Grum-Tokars, V.; Mulhearn, D. C.;
+Baker, S. C.; Coughlin, M.; Prabhakar, B. S.; Sleeman, K.; Johnson, M.
+E.; Mesecar, A. D. Design, synthesis and antiviral efficacy of a series of
+potent chloropyridyl ester-derived SARS-CoV 3CLpro inhibitors.
+Bioorg. Med. Chem. Lett. 2008, 18, 5684?5688.",
+177,5-chloropyridin-3-yl 1-acetyl-1H-indole-5-carboxylate,,O=C(C1=CC2=C(C=C1)N(C(C)=O)C=C2)OC3=CN=CC(Cl)=C3,IC50=0.40 ¦ÌM,"Ghosh, A. K.; Gong, G.; Grum-Tokars, V.; Mulhearn, D. C.;
+Baker, S. C.; Coughlin, M.; Prabhakar, B. S.; Sleeman, K.; Johnson, M.
+E.; Mesecar, A. D. Design, synthesis and antiviral efficacy of a series of
+potent chloropyridyl ester-derived SARS-CoV 3CLpro inhibitors.
+Bioorg. Med. Chem. Lett. 2008, 18, 5684?5688.",
+178,5-chloropyridin-3-yl 1-tosyl-1H-indole-5-carboxylate,,O=C(C1=CC2=C(C=C1)N(S(C3=CC=C(C)C=C3)(=O)=O)C=C2)OC4=CN=CC(Cl)=C4,IC50=0.37 ¦ÌM,"Ghosh, A. K.; Gong, G.; Grum-Tokars, V.; Mulhearn, D. C.;
+Baker, S. C.; Coughlin, M.; Prabhakar, B. S.; Sleeman, K.; Johnson, M.
+E.; Mesecar, A. D. Design, synthesis and antiviral efficacy of a series of
+potent chloropyridyl ester-derived SARS-CoV 3CLpro inhibitors.
+Bioorg. Med. Chem. Lett. 2008, 18, 5684?5688.",
+179,5-chloropyridin-3-yl 1-((3-nitrophenyl)sulfonyl)-1H-indole-5-carboxylate,,O=C(C1=CC2=C(C=C1)N(S(C3=CC=CC([N+]([O-])=O)=C3)(=O)=O)C=C2)OC4=CN=CC(Cl)=C4,IC50=89 nM,"Ghosh, A. K.; Gong, G.; Grum-Tokars, V.; Mulhearn, D. C.;
+Baker, S. C.; Coughlin, M.; Prabhakar, B. S.; Sleeman, K.; Johnson, M.
+E.; Mesecar, A. D. Design, synthesis and antiviral efficacy of a series of
+potent chloropyridyl ester-derived SARS-CoV 3CLpro inhibitors.
+Bioorg. Med. Chem. Lett. 2008, 18, 5684?5688.",
+180,5-chloropyridin-3-yl 1H-indole-6-carboxylate,,O=C(C(C=C1)=CC2=C1C=CN2)OC3=CN=CC(Cl)=C3,IC50=0.23 ¦ÌM,"Ghosh, A. K.; Gong, G.; Grum-Tokars, V.; Mulhearn, D. C.;
+Baker, S. C.; Coughlin, M.; Prabhakar, B. S.; Sleeman, K.; Johnson, M.
+E.; Mesecar, A. D. Design, synthesis and antiviral efficacy of a series of
+potent chloropyridyl ester-derived SARS-CoV 3CLpro inhibitors.
+Bioorg. Med. Chem. Lett. 2008, 18, 5684?5688.",
+181,5-chloropyridin-3-yl 1H-indole-7-carboxylate,,O=C(C1=CC=CC2=C1NC=C2)OC3=CN=CC(Cl)=C3,IC50=0.08 ¦ÌM,"Ghosh, A. K.; Gong, G.; Grum-Tokars, V.; Mulhearn, D. C.;
+Baker, S. C.; Coughlin, M.; Prabhakar, B. S.; Sleeman, K.; Johnson, M.
+E.; Mesecar, A. D. Design, synthesis and antiviral efficacy of a series of
+potent chloropyridyl ester-derived SARS-CoV 3CLpro inhibitors.
+Bioorg. Med. Chem. Lett. 2008, 18, 5684?5688.",
+182,5-chloropyridin-3-yl 1H-indole-4-carboxylate,,O=C(C1=CC=CC2=C1C=CN2)OC3=CN=CC(Cl)=C3,IC50=0.03 ¦ÌM,"Ghosh, A. K.; Gong, G.; Grum-Tokars, V.; Mulhearn, D. C.;
+Baker, S. C.; Coughlin, M.; Prabhakar, B. S.; Sleeman, K.; Johnson, M.
+E.; Mesecar, A. D. Design, synthesis and antiviral efficacy of a series of
+potent chloropyridyl ester-derived SARS-CoV 3CLpro inhibitors.
+Bioorg. Med. Chem. Lett. 2008, 18, 5684?5688.",
+183,2-(5-bromopyridin-3-yl)-1-(5-(4-chlorophenyl)furan-2-yl)ethan-1-one,,BrC1=CC(CC(C2=CC=C(C3=CC=C(Cl)C=C3)O2)=O)=CN=C1,IC50=13 ¦ÌM,"Zhang, J.; Huitema, C.; Niu, C.; Yin, J.; James, M. N.G.; Eltis,
+L. D.; Vederas, J. C. Aryl methylene ketones and fluorinated methylene
+ketones as reversible inhibitors for severe acute respiratory syndrome
+(SARS) 3C-like proteinase. Bioorg. Chem. 2008, 36, 229?240.","noncovalent, reversible mechanism of
+action."
+184,2-(5-bromopyridin-3-yl)-1-(5-(4-chlorophenyl)furan-2-yl)-2-fluoroethan-1-one,,BrC1=CC(C(F)C(C2=CC=C(C3=CC=C(Cl)C=C3)O2)=O)=CN=C1,IC50=28 ¦ÌM,"Zhang, J.; Huitema, C.; Niu, C.; Yin, J.; James, M. N.G.; Eltis,
+L. D.; Vederas, J. C. Aryl methylene ketones and fluorinated methylene
+ketones as reversible inhibitors for severe acute respiratory syndrome
+(SARS) 3C-like proteinase. Bioorg. Chem. 2008, 36, 229?240.","noncovalent, reversible mechanism of
+action."
+185,"2-(5-bromopyridin-3-yl)-1-(5-(4-chlorophenyl)furan-2-yl)-2,2-difluoroethan-1-one",,BrC1=CC(C(F)(F)C(C2=CC=C(C3=CC=C(Cl)C=C3)O2)=O)=CN=C1,IC50=57 ¦ÌM,"Zhang, J.; Huitema, C.; Niu, C.; Yin, J.; James, M. N.G.; Eltis,
+L. D.; Vederas, J. C. Aryl methylene ketones and fluorinated methylene
+ketones as reversible inhibitors for severe acute respiratory syndrome
+(SARS) 3C-like proteinase. Bioorg. Chem. 2008, 36, 229?240.","noncovalent, reversible mechanism of
+action."
+186,N-(4-(tert-butyl)phenyl)-N-(2-(tert-butylamino)-2-oxo-1-(pyridin-3-yl)ethyl)furan-2-carboxamide,,O=C(C1=CC=CO1)N(C2=CC=C(C(C)(C)C)C=C2)C(C(NC(C)(C)C)=O)C3=CN=CC=C3,IC50=4.8 ¦ÌM,"Jacobs, J.; Grum-Tokars, V.; Zhou, Y.; Turlington, M.;
+Saldanha, S. A.; Chase, P.; Eggler, A.; Dawson, E. S.; Baez-Santos, Y.
+M.; Tomar, S.; Mielech, A. M.; Baker, S. C.; Lindsley, C. W.; Hodder,
+P.; Mesecar, A.; Stauffer, S. R. Discovery, synthesis, and structurebased
+optimization of a series of N-(tert-butyl)-2-(N-arylamido)-2-
+(pyridin-3-yl) acetamides (ML188) as potent noncovalent small
+molecule inhibitors of the severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CL protease. J. Med. Chem. 2013, 56,
+534?546.",
+187,(R)-N-(4-(tert-butyl)phenyl)-N-(2-(tert-butylamino)-2-oxo-1-(pyridin-3-yl)ethyl)furan-2-carboxamide,,O=C(C1=CC=CO1)N(C2=CC=C(C(C)(C)C)C=C2)[C@@H](C(NC(C)(C)C)=O)C3=CN=CC=C3,IC50=1.5 ¦ÌM,"Jacobs, J.; Grum-Tokars, V.; Zhou, Y.; Turlington, M.;
+Saldanha, S. A.; Chase, P.; Eggler, A.; Dawson, E. S.; Baez-Santos, Y.
+M.; Tomar, S.; Mielech, A. M.; Baker, S. C.; Lindsley, C. W.; Hodder,
+P.; Mesecar, A.; Stauffer, S. R. Discovery, synthesis, and structurebased
+optimization of a series of N-(tert-butyl)-2-(N-arylamido)-2-
+(pyridin-3-yl) acetamides (ML188) as potent noncovalent small
+molecule inhibitors of the severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CL protease. J. Med. Chem. 2013, 56,
+534?546.","Jacobs, J.; Grum-Tokars, V.; Zhou, Y.; Turlington, M.;
+Saldanha, S. A.; Chase, P.; Eggler, A.; Dawson, E. S.; Baez-Santos, Y.
+M.; Tomar, S.; Mielech, A. M.; Baker, S. C.; Lindsley, C. W.; Hodder,
+P.; Mesecar, A.; Stauffer, S. R. Discovery, synthesis, and structurebased
+optimization of a series of N-(tert-butyl)-2-(N-arylamido)-2-
+(pyridin-3-yl) acetamides (ML188) as potent noncovalent small
+molecule inhibitors of the severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CL protease. J. Med. Chem. 2013, 56,
+534?546."
+188,N-(4-((S)-sec-butyl)phenyl)-N-((R)-2-(cyclopentylamino)-2-oxo-1-(pyridin-3-yl)ethyl)furan-2-carboxamide,,O=C(C1=CC=CO1)N(C2=CC=C([C@H](CC)C)C=C2)[C@@H](C(NC3CCCC3)=O)C4=CN=CC=C4,IC50=2.2 ¦ÌM,"Jacobs, J.; Grum-Tokars, V.; Zhou, Y.; Turlington, M.;
+Saldanha, S. A.; Chase, P.; Eggler, A.; Dawson, E. S.; Baez-Santos, Y.
+M.; Tomar, S.; Mielech, A. M.; Baker, S. C.; Lindsley, C. W.; Hodder,
+P.; Mesecar, A.; Stauffer, S. R. Discovery, synthesis, and structurebased
+optimization of a series of N-(tert-butyl)-2-(N-arylamido)-2-
+(pyridin-3-yl) acetamides (ML188) as potent noncovalent small
+molecule inhibitors of the severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CL protease. J. Med. Chem. 2013, 56,
+534?546.",
+189,N-(4-(tert-butyl)phenyl)-N-(2-(tert-butylamino)-2-oxo-1-(pyridin-3-yl)ethyl)-5-chlorofuran-2-carboxamide,,O=C(C1=CC=C(Cl)O1)N(C2=CC=C(C(C)(C)C)C=C2)C(C(NC(C)(C)C)=O)C3=CN=CC=C3,IC50=5.2 ¦ÌM,"Jacobs, J.; Grum-Tokars, V.; Zhou, Y.; Turlington, M.;
+Saldanha, S. A.; Chase, P.; Eggler, A.; Dawson, E. S.; Baez-Santos, Y.
+M.; Tomar, S.; Mielech, A. M.; Baker, S. C.; Lindsley, C. W.; Hodder,
+P.; Mesecar, A.; Stauffer, S. R. Discovery, synthesis, and structurebased
+optimization of a series of N-(tert-butyl)-2-(N-arylamido)-2-
+(pyridin-3-yl) acetamides (ML188) as potent noncovalent small
+molecule inhibitors of the severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CL protease. J. Med. Chem. 2013, 56,
+534?546.",
+190,"N-(4-acetamidophenyl)-2-(1H-benzo[d][1,2,3]triazol-1-yl)-N-(1-(1-methyl-1H-pyrrol-3-yl)-2-oxo-2-(tert-pentylamino)ethyl)acetamide",,O=C(CN1N=NC2=C1C=CC=C2)N(C(C(NC(C)(CC)C)=O)C3=CN(C)C=C3)C4=CC=C(NC(C)=O)C=C4,IC50=6.2 ¦ÌM,"Turlington, M.; Chun, A.; Tomar, S.; Eggler, A.; Grum-Tokars,
+V.; Jacobs, J.; Daniels, J. S.; Dawson, E.; Saldanha, A.; Chase, P.; Baez-
+Santos, Y. M.; Lindsley, C. W.; Hodder, P.; Mesecar, A. D.; Stauffer, S.
+R. Discovery of N-(benzo[1,2,3]triazol-1-yl)-N-(benzyl)acetamido)-
+phenyl) carboxamides as severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CLpro inhibitors: identification of
+ML300 and noncovalent nanomolar inhibitors with an induced-fit
+binding. Bioorg. Med. Chem. Lett. 2013, 23, 6172?6177.",
+191,"N-(4-acetamidophenyl)-N-(1-(1-methyl-1H-pyrrol-3-yl)-2-oxo-2-(tert-pentylamino)ethyl)-2-(4-phenyl-1H-1,2,3-triazol-1-yl)acetamide",,O=C(CN1N=NC(C2=CC=CC=C2)=C1)N(C(C(NC(C)(CC)C)=O)C3=CN(C)C=C3)C4=CC=C(NC(C)=O)C=C4,IC50=11 ¦ÌM,"Turlington, M.; Chun, A.; Tomar, S.; Eggler, A.; Grum-Tokars,
+V.; Jacobs, J.; Daniels, J. S.; Dawson, E.; Saldanha, A.; Chase, P.; Baez-
+Santos, Y. M.; Lindsley, C. W.; Hodder, P.; Mesecar, A. D.; Stauffer, S.
+R. Discovery of N-(benzo[1,2,3]triazol-1-yl)-N-(benzyl)acetamido)-
+phenyl) carboxamides as severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CLpro inhibitors: identification of
+ML300 and noncovalent nanomolar inhibitors with an induced-fit
+binding. Bioorg. Med. Chem. Lett. 2013, 23, 6172?6177.",
+192,"N-(4-(2-(1H-benzo[d][1,2,3]triazol-1-yl)-N-(1-(1-methyl-1H-pyrrol-3-yl)-2-oxo-2-(tert-pentylamino)ethyl)acetamido)phenyl)propionamide",,O=C(CN1N=NC2=C1C=CC=C2)N(C(C(NC(C)(CC)C)=O)C3=CN(C)C=C3)C4=CC=C(NC(CC)=O)C=C4,IC50=6.9 ¦ÌM,"Turlington, M.; Chun, A.; Tomar, S.; Eggler, A.; Grum-Tokars,
+V.; Jacobs, J.; Daniels, J. S.; Dawson, E.; Saldanha, A.; Chase, P.; Baez-
+Santos, Y. M.; Lindsley, C. W.; Hodder, P.; Mesecar, A. D.; Stauffer, S.
+R. Discovery of N-(benzo[1,2,3]triazol-1-yl)-N-(benzyl)acetamido)-
+phenyl) carboxamides as severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CLpro inhibitors: identification of
+ML300 and noncovalent nanomolar inhibitors with an induced-fit
+binding. Bioorg. Med. Chem. Lett. 2013, 23, 6172?6177.",
+193,"N-(4-(2-(1H-benzo[d][1,2,3]triazol-1-yl)-N-(1-(1-methyl-1H-pyrrol-3-yl)-2-oxo-2-(tert-pentylamino)ethyl)acetamido)phenyl)isobutyramide",,O=C(CN1N=NC2=C1C=CC=C2)N(C(C(NC(C)(CC)C)=O)C3=CN(C)C=C3)C4=CC=C(NC(C(C)C)=O)C=C4,IC50=4.1 ¦ÌM,"Turlington, M.; Chun, A.; Tomar, S.; Eggler, A.; Grum-Tokars,
+V.; Jacobs, J.; Daniels, J. S.; Dawson, E.; Saldanha, A.; Chase, P.; Baez-
+Santos, Y. M.; Lindsley, C. W.; Hodder, P.; Mesecar, A. D.; Stauffer, S.
+R. Discovery of N-(benzo[1,2,3]triazol-1-yl)-N-(benzyl)acetamido)-
+phenyl) carboxamides as severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CLpro inhibitors: identification of
+ML300 and noncovalent nanomolar inhibitors with an induced-fit
+binding. Bioorg. Med. Chem. Lett. 2013, 23, 6172?6177.",
+194,"N-(4-(2-(1H-benzo[d][1,2,3]triazol-1-yl)-N-(1-(1-methyl-1H-pyrrol-3-yl)-2-oxo-2-(tert-pentylamino)ethyl)acetamido)phenyl)cyclopropanecarboxamide",,O=C(CN1N=NC2=C1C=CC=C2)N(C(C(NC(C)(CC)C)=O)C3=CN(C)C=C3)C4=CC=C(NC(C5CC5)=O)C=C4,IC50=9.1 ¦ÌM,"Turlington, M.; Chun, A.; Tomar, S.; Eggler, A.; Grum-Tokars,
+V.; Jacobs, J.; Daniels, J. S.; Dawson, E.; Saldanha, A.; Chase, P.; Baez-
+Santos, Y. M.; Lindsley, C. W.; Hodder, P.; Mesecar, A. D.; Stauffer, S.
+R. Discovery of N-(benzo[1,2,3]triazol-1-yl)-N-(benzyl)acetamido)-
+phenyl) carboxamides as severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CLpro inhibitors: identification of
+ML300 and noncovalent nanomolar inhibitors with an induced-fit
+binding. Bioorg. Med. Chem. Lett. 2013, 23, 6172?6177.",
+195,"N-(4-(2-(1H-benzo[d][1,2,3]triazol-1-yl)-N-(1-(1-methyl-1H-pyrrol-3-yl)-2-oxo-2-(tert-pentylamino)ethyl)acetamido)phenyl)cyclobutanecarboxamide",,O=C(CN1N=NC2=C1C=CC=C2)N(C(C(NC(C)(CC)C)=O)C3=CN(C)C=C3)C4=CC=C(NC(C5CCC5)=O)C=C4,IC50=3.8 ¦ÌM,"Turlington, M.; Chun, A.; Tomar, S.; Eggler, A.; Grum-Tokars,
+V.; Jacobs, J.; Daniels, J. S.; Dawson, E.; Saldanha, A.; Chase, P.; Baez-
+Santos, Y. M.; Lindsley, C. W.; Hodder, P.; Mesecar, A. D.; Stauffer, S.
+R. Discovery of N-(benzo[1,2,3]triazol-1-yl)-N-(benzyl)acetamido)-
+phenyl) carboxamides as severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CLpro inhibitors: identification of
+ML300 and noncovalent nanomolar inhibitors with an induced-fit
+binding. Bioorg. Med. Chem. Lett. 2013, 23, 6172?6177.",
+196,"N-(4-(2-(1H-benzo[d][1,2,3]triazol-1-yl)-N-((1-methyl-1H-pyrrol-3-yl)methyl)acetamido)phenyl)propionamide",,O=C(CN1N=NC2=C1C=CC=C2)N(CC3=CN(C)C=C3)C4=CC=C(NC(CC)=O)C=C4,IC50=2.9 ¦ÌM,"Turlington, M.; Chun, A.; Tomar, S.; Eggler, A.; Grum-Tokars,
+V.; Jacobs, J.; Daniels, J. S.; Dawson, E.; Saldanha, A.; Chase, P.; Baez-
+Santos, Y. M.; Lindsley, C. W.; Hodder, P.; Mesecar, A. D.; Stauffer, S.
+R. Discovery of N-(benzo[1,2,3]triazol-1-yl)-N-(benzyl)acetamido)-
+phenyl) carboxamides as severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CLpro inhibitors: identification of
+ML300 and noncovalent nanomolar inhibitors with an induced-fit
+binding. Bioorg. Med. Chem. Lett. 2013, 23, 6172?6177.",
+197,"N-(4-(2-(1H-benzo[d][1,2,3]triazol-1-yl)-N-((1-methyl-1H-pyrrol-3-yl)methyl)acetamido)phenyl)isobutyramide",,O=C(CN1N=NC2=C1C=CC=C2)N(CC3=CN(C)C=C3)C4=CC=C(NC(C(C)C)=O)C=C4,IC50=3.6 ¦ÌM,"Turlington, M.; Chun, A.; Tomar, S.; Eggler, A.; Grum-Tokars,
+V.; Jacobs, J.; Daniels, J. S.; Dawson, E.; Saldanha, A.; Chase, P.; Baez-
+Santos, Y. M.; Lindsley, C. W.; Hodder, P.; Mesecar, A. D.; Stauffer, S.
+R. Discovery of N-(benzo[1,2,3]triazol-1-yl)-N-(benzyl)acetamido)-
+phenyl) carboxamides as severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CLpro inhibitors: identification of
+ML300 and noncovalent nanomolar inhibitors with an induced-fit
+binding. Bioorg. Med. Chem. Lett. 2013, 23, 6172?6177.",
+198,"N-(4-(2-(1H-benzo[d][1,2,3]triazol-1-yl)-N-((1-methyl-1H-pyrrol-3-yl)methyl)acetamido)phenyl)cyclopropanecarboxamide",,O=C(CN1N=NC2=C1C=CC=C2)N(CC3=CN(C)C=C3)C4=CC=C(NC(C5CC5)=O)C=C4,IC50=4.11 ¦ÌM,"Turlington, M.; Chun, A.; Tomar, S.; Eggler, A.; Grum-Tokars,
+V.; Jacobs, J.; Daniels, J. S.; Dawson, E.; Saldanha, A.; Chase, P.; Baez-
+Santos, Y. M.; Lindsley, C. W.; Hodder, P.; Mesecar, A. D.; Stauffer, S.
+R. Discovery of N-(benzo[1,2,3]triazol-1-yl)-N-(benzyl)acetamido)-
+phenyl) carboxamides as severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CLpro inhibitors: identification of
+ML300 and noncovalent nanomolar inhibitors with an induced-fit
+binding. Bioorg. Med. Chem. Lett. 2013, 23, 6172?6177.",
+199,"N-(4-(2-(1H-benzo[d][1,2,3]triazol-1-yl)-N-((1-methyl-1H-pyrrol-3-yl)methyl)acetamido)phenyl)cyclobutanecarboxamide",,O=C(CN1N=NC2=C1C=CC=C2)N(CC3=CN(C)C=C3)C4=CC=C(NC(C5CCC5)=O)C=C4,IC50=8.12 ¦ÌM,"Turlington, M.; Chun, A.; Tomar, S.; Eggler, A.; Grum-Tokars,
+V.; Jacobs, J.; Daniels, J. S.; Dawson, E.; Saldanha, A.; Chase, P.; Baez-
+Santos, Y. M.; Lindsley, C. W.; Hodder, P.; Mesecar, A. D.; Stauffer, S.
+R. Discovery of N-(benzo[1,2,3]triazol-1-yl)-N-(benzyl)acetamido)-
+phenyl) carboxamides as severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CLpro inhibitors: identification of
+ML300 and noncovalent nanomolar inhibitors with an induced-fit
+binding. Bioorg. Med. Chem. Lett. 2013, 23, 6172?6177.",
+200,"N-([1,1'-biphenyl]-4-yl)-2-(1H-benzo[d][1,2,3]triazol-1-yl)-N-((1-methyl-1H-pyrrol-3-yl)methyl)acetamide",,O=C(CN1N=NC2=C1C=CC=C2)N(CC3=CN(C)C=C3)C4=CC=C(C5=CC=CC=C5)C=C4,IC50=0.051 ¦ÌM,"Turlington, M.; Chun, A.; Tomar, S.; Eggler, A.; Grum-Tokars,
+V.; Jacobs, J.; Daniels, J. S.; Dawson, E.; Saldanha, A.; Chase, P.; Baez-
+Santos, Y. M.; Lindsley, C. W.; Hodder, P.; Mesecar, A. D.; Stauffer, S.
+R. Discovery of N-(benzo[1,2,3]triazol-1-yl)-N-(benzyl)acetamido)-
+phenyl) carboxamides as severe acute respiratory syndrome
+coronavirus (SARS-CoV) 3CLpro inhibitors: identification of
+ML300 and noncovalent nanomolar inhibitors with an induced-fit
+binding. Bioorg. Med. Chem. Lett. 2013, 23, 6172?6177.",
+201,"(((1,4-phenylenebis(oxy))bis(carbonyl))bis(5-nitro-3,1-phenylene))diboronic acid",,O=C(OC1=CC=C(OC(C2=CC(B(O)O)=CC([N+]([O-])=O)=C2)=O)C=C1)C3=CC([N+]([O-])=O)=CC(B(O)O)=C3,4.5 ¦ÌM,"Bacha, U.; Barrila, J.; Velazquez-Campoy, A.; Leavitt, S. A.;
+Freire, E. Identification of novel inhibitors of the SARS coronavirus
+main protease 3CLpro. Biochemistry 2004, 43, 4906?4912.",
+202,"((((1,2-phenylenebis(methylene))bis(oxy))bis(carbonyl))bis(5-nitro-3,1-phenylene))diboronic acid",,O=C(OCC1=C(COC(C2=CC(B(O)O)=CC([N+]([O-])=O)=C2)=O)C=CC=C1)C3=CC([N+]([O-])=O)=CC(B(O)O)=C3,6 ¦ÌM,"Bacha, U.; Barrila, J.; Velazquez-Campoy, A.; Leavitt, S. A.;
+Freire, E. Identification of novel inhibitors of the SARS coronavirus
+main protease 3CLpro. Biochemistry 2004, 43, 4906?4912.",
+203,"(((1,4-phenylenebis(azanediyl))bis(carbonyl))bis(5-nitro-3,1-phenylene))diboronic acid",,O=C(NC1=CC=C(NC(C2=CC(B(O)O)=CC([N+]([O-])=O)=C2)=O)C=C1)C3=CC([N+]([O-])=O)=CC(B(O)O)=C3,0.04 ¦ÌM,"Bacha, U.; Barrila, J.; Velazquez-Campoy, A.; Leavitt, S. A.;
+Freire, E. Identification of novel inhibitors of the SARS coronavirus
+main protease 3CLpro. Biochemistry 2004, 43, 4906?4912.",
+204,(Z)-N-(3-((3-(dimethylamino)propyl)amino)-1-(5-(3-nitrophenyl)furan-2-yl)-3-oxoprop-1-en-2-yl)-4-methylbenzamide,,O=C(NCCCN(C)C)/C(NC(C1=CC=C(C)C=C1)=O)=C/C(O2)=CC=C2C3=CC([N+]([O-])=O)=CC=C3,9.11 ¦ÌM,"Nguyen, T. T. H.; Ryu, H.-J.; Lee, S.-H.; Hwang, S. W.; Breton,
+V.; Rhee, J. H.; Kim, D. Virtual screening identification of novel severe
+acute respiratory syndrome 3C-like protease inhibitors and in vitro
+confirmation. Bioorg. Med. Chem. Lett. 2011, 21, 3088?3091.",
+205,"2-(2-((3R,4S,4aS,8aS)-3-((((S)-1-(1H-imidazol-4-yl)-3-oxopropan-2-yl)amino)methyl)-2-(4-bromobenzoyl)decahydroisoquinolin-4-yl)hydrazineyl)-N-((2R)-2-hydroxy-4,5-dioxohexan-3-yl)acetamide",,O=C[C@H](CC1=CNC=N1)NC[C@H]2N(C(C3=CC=C(Br)C=C3)=O)C[C@@]4([H])CCCC[C@]4([H])[C@@H]2NNCC(NC([C@@H](C)O)C(C(C)=O)=O)=O,IC50=26 ¦ÌM,"Ohnishi, K., Hattori, Y., Kobayashi, K., & Akaji, K. (2019). Evaluation of a non-prime site substituent and warheads combined with a decahydroisoquinolin scaffold as a SARS 3CL protease inhibitor. Bioorganic & medicinal chemistry, 27(2), 425-435.",
+206,(R)-2-cinnamamido-3-(cyclohexylamino)-3-oxopropyl benzoate,,O=C(N[C@H](COC(C1=CC=CC=C1)=O)C(NC2CCCCC2)=O)/C=C/C3=CC=CC=C3,IC50=30 ¦ÌM,"Konno, H., Wakabayashi, M., Takanuma, D., Saito, Y., & Akaji, K. (2016). Design and synthesis of a series of serine derivatives as small molecule inhibitors of the SARS coronavirus 3CL protease. Bioorganic & medicinal chemistry, 24(6), 1241-1254.",
+207,(E)-3-(4-chloro-2-fluorophenyl)-N-((S)-1-oxo-1-(((S)-1-oxo-3-((S)-2-oxopyrrolidin-3-yl)propan-2-yl)amino)-3-phenylpropan-2-yl)acrylamide,,O=C(N[C@@H](CC1=CC=CC=C1)C(N[C@H](C([H])=O)C[C@@H]2CCNC2=O)=O)/C=C/C3=C(F)C=C(Cl)C=C3,"EC50=0.6 ¦ÌM
+IC50=0.2 ¦ÌM","Kumar, V., Shin, J. S., Shie, J. J., Ku, K. B., Kim, C., Go, Y. Y., ... & Liang, P. H. (2017). Identification and evaluation of potent Middle East respiratory syndrome coronavirus (MERS-CoV) 3CLPro inhibitors. Antiviral research, 141, 101-106.",
+208,,,CN(C)CCCNC(=O)\C(=C\c1oc(cc1)c2ccccc2[N+](=O)[O-])\NC(=O)c3ccc(C)cc3,41390,CHEMBL1315054,
+209,,,OC1=C(Oc2cc(OCc3cccc(Cl)c3)cc(O)c2C1=O)c4ccc5OCOc5c4,15400,CHEMBL560933,
+210,,,OC1=C(Oc2cc(OCc3cccc(c3)C#N)cc(O)c2C1=O)c4ccc5OCOc5c4,8100,CHEMBL551529,
+211,,,OC(=O)\C(=C\C(=O)c1cccc(OCc2ccc(Cl)cc2)c1)\O,13600,CHEMBL492771,
+212,,,OC1=C(Oc2cc(OCc3cccc(c3)C#N)cc(O)c2C1=O)c4ccc5OCOc5c4,42900,CHEMBL551529,
+213,,,COc1cc(\C=N\NC(=O)\C(=C/c2ccccc2)\NC(=O)c3ccccc3)cc(OC)c1O,77090,CHEMBL1774325,
+214,,,CN(C)CCCNC(=O)\C(=C\c1oc(cc1)c2ccccc2[N+](=O)[O-])\NC(=O)c3ccc(C)cc3,9930,CHEMBL1315054,
+215,,,OC(=O)\C(=C\C(=O)c1cccc(NCc2ccc(Cl)cc2)c1)\O,11000,CHEMBL522710,
+216,,,O=C(CSc1ncnc2c1sc3nc(N4CCOCC4)c5CCCCc5c23)NCc6occc6,90720,CHEMBL1774326,
+217,,,OC(=O)\C(=C\C(=O)c1cccc(NCc2ccccc2)c1)\O,5400,CHEMBL492571,
+218,,,OC1=C(Oc2cc(OCc3ccc(Cl)cc3)cc(O)c2C1=O)c4ccc5OCOc5c4,9300,CHEMBL551334,
+219,,,OC(=O)\C(=C\C(=O)c1cccc(OCc2ccc(Cl)cc2)c1)\O,24400,CHEMBL492771,
+220,,,OC(=O)\C(=C\C(=O)c1ccccc1OCc2ccc(Cl)cc2)\O,28700,CHEMBL492772,
+221,,,OC(=O)\C(=C\C(=O)c1ccc(OCc2ccccc2)cc1)\O,39900,CHEMBL492768,
+222,,,OC1=C(Oc2cc(OCc3ccc(Cl)cc3)cc(O)c2C1=O)c4ccc(O)c(O)c4,20900,CHEMBL550256,
+223,,,OC1=C(Oc2cc(OCc3ccc(Cl)cc3)cc(O)c2C1=O)c4ccc(O)c(O)c4,4100,CHEMBL550256,
+224,,,OC(=O)\C(=C\C(=O)c1ccc(OCc2ccccc2)cc1)\O,41300,CHEMBL492768,
+225,,,OC1=C(Oc2cc(OCc3cccc(c3)C#N)cc(O)c2C1=O)c4ccc(O)c(O)c4,25400,CHEMBL551131,
+226,,,OC1=C(Oc2cc(OCc3cccc(c3)C#N)cc(O)c2C1=O)c4ccc(O)c(O)c4,2700,CHEMBL551131,
+227,,,OC1=C(Oc2cc(OCc3cccc(Cl)c3)cc(O)c2C1=O)c4ccc(O)c(O)c4,5200,CHEMBL551130,
+228,,,Nc1nc(CSc2nnc(c3cccc4ccccc34)n2c5ccccc5)cs1,58350,CHEMBL1774322,
+229,,,COc1ccc(cc1)N2N=C(\C(=C\c3oc(cc3)c4ccccc4C(=O)O)\C2=O)c5ccccc5,30700,CHEMBL3809059,
+230,,,OC(=O)c1cccc(c1)N2N=C(\C(=C\c3ccc(OCc4ccccc4)cc3)\C2=O)c5ccccc5,15700,CHEMBL3809926,
+231,,,CC(C)(C)c1ccc(cc1)N2N=C(\C(=C\c3oc(cc3)c4cc(Cl)ccc4C(=O)O)\C2=O)c5ccccc5,5800,CHEMBL3808427,
+232,,,OC(=O)c1cccc(c1)N2N=C(\C(=C\c3ccc(cc3)c4ccccc4)\C2=O)c5ccccc5,6700,CHEMBL3809053,
+233,,,OC(=O)c1cccc(c1)N2N=C(\C(=C\c3oc(cc3)c4ccccc4)\C2=O)c5ccccc5,6400,CHEMBL3809861,
+234,,,CC(C)(C)c1ccc(cc1)N2N=C(\C(=C\c3oc(cc3)c4ccccc4C(=O)O)\C2=O)c5ccccc5,8600,CHEMBL3809579,
+235,,,OC(=O)c1ccc(Cl)cc1c2oc(\C=C\3/C(=O)N(N=C3c4ccccc4)c5ccc(F)cc5)cc2,20200,CHEMBL3808658,
+236,,,OC(=O)c1ccccc1c2oc(\C=C\3/C(=O)N(N=C3c4ccccc4)c5ccc(cc5)C#N)cc2,18700,CHEMBL3809498,
+237,,,OC(=O)c1ccc(Cl)cc1c2oc(\C=C\3/C(=O)N(N=C3c4ccccc4)c5ccccc5)cc2,16400,CHEMBL3810328,
+238,,,COc1cc(ccc1O)C2N(CCN(C)C)C(=O)C(=C2C(=O)c3ccc(OCC(C)C)cc3C)O,62790,CHEMBL1774323,
+239,,,OC(=O)c1ccccc1c2oc(\C=C\3/C(=O)N(N=C3c4ccccc4)c5ccc(F)cc5)cc2,37500,CHEMBL3810325,
+240,,,CC(C)c1ccc(cc1)N2N=C(\C(=C\c3oc(cc3)c4ccccc4C(=O)O)\C2=O)c5ccccc5,11700,CHEMBL3809506,
+241,,,CN(C)CCCNC(=O)\C(=C\c1oc(cc1)c2cccc(c2)[N+](=O)[O-])\NC(=O)c3ccc(C)cc3,9110,CHEMBL1350514,
+242,,,OC(=O)c1cccc(c1)N2N=C(\C(=C\c3oc(cc3)c4cc(Cl)ccc4C(=O)O)\C2=O)c5ccccc5,44700,CHEMBL3808795,
+243,,,CC(C)c1ccc(cc1)N2N=C(\C(=C\c3oc(cc3)c4cc(Cl)ccc4C(=O)O)\C2=O)c5ccccc5,6000,CHEMBL3809329,
+244,,,OC(=O)c1ccccc1c2oc(\C=C\3/C(=O)N(N=C3c4ccccc4)c5ccccc5)cc2,41200,CHEMBL3810361,
+245,,,CN(C)CCCNC(=O)\C(=C\c1oc(cc1)c2cccc(c2)[N+](=O)[O-])\NC(=O)c3ccc(C)cc3,38570,CHEMBL1350514,
+246,,,OC1=C(Oc2cc(O)cc(O)c2C1=O)c3ccc(O)c(O)c3,8100,CHEMBL50,
+247,,,O=C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](C[C@@H]2CCNC2=O)C(C(NCC3=CC=CC=C3)=O)=O)=O)/C=C/C4=CC=CC=C4,1.95 ± 0.24 ?M,DOI: 10.1021/acs.jmedchem.9b01828,
+248,,,O=C(N[C@@H](CCCC)C(N[C@@H](C[C@@H]1CCNC1=O)C(C(NCC2=CC=CC=C2)=O)=O)=O)/C=C/C3=CC=CC=C3,8.50 ± 3.71 ?M,DOI: 10.1021/acs.jmedchem.9b01828,
+249,,,O=C(N[C@@H](CC#C)C(N[C@@H](C[C@@H]1CCNC1=O)C(C(NCC2=CC=CC=C2)=O)=O)=O)/C=C/C3=CC=CC=C3,10.68 ± 7.34 ?M,DOI: 10.1021/acs.jmedchem.9b01828,
+250,,,O=C(N[C@@H](C1CC1)C(N[C@@H](C[C@@H]2CCNC2=O)C(C(NCC3=CC=CC=C3)=O)=O)=O)/C=C/C4=CC=CC=C4,6.27 ± 2.87 ?M,DOI: 10.1021/acs.jmedchem.9b01828,
+251,,,O=C(N[C@@H](CC1CCCCC1)C(N[C@@H](C[C@@H]2CCNC2=O)C(C(NCC3=CC=CC=C3)=O)=O)=O)/C=C/C4=CC=CC=C4,0.71 ± 0.36 ?M,DOI: 10.1021/acs.jmedchem.9b01828,
+252,,,O=C(N[C@@H](CC1CC1)C(N[C@@H](C[C@@H]2CCNC2=O)C(C(NCC3=CC=CC=C3)=O)=O)=O)/C=C/C4=CC=CC=C4,0.24 ± 0.08 ?M,DOI: 10.1021/acs.jmedchem.9b01828,
+253,,,O=C(N[C@@H](CC1CCC1)C(N[C@@H](C[C@@H]2CCNC2=O)C(C(NCC3=CC=CC=C3)=O)=O)=O)/C=C/C4=CC=CC=C4,1.44 ± 0.40 ?M,DOI: 10.1021/acs.jmedchem.9b01828,
+254,,,O=C(N[C@@H](CC1CCCC1)C(N[C@@H](C[C@@H]2CCNC2=O)C(C(NCC3=CC=CC=C3)=O)=O)=O)/C=C/C4=CC=CC=C4,1.27 ± 0.34 ?M,DOI: 10.1021/acs.jmedchem.9b01828,
+255,,,O=C(N[C@@H](CC(C)C)C(N[C@@H](C[C@@H]1CCNC1=O)C(C(NCC2=CC=CC=C2)=O)=O)=O)/C=C/C3=CC=CC=C3,0.33 ± 0.04 ??,DOI: 10.1021/acs.jmedchem.9b01828,
+256,,,N=C(N)C1=CC=C(NCC2=NC3=C(C=CC(C(N(CCC(O)=O)C4=NC=CC=C4)=O)=C3)N2C)C=C1,thrombin and Factor Xa,"Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+257,,,O=C1N(C2=CC=C(N3C[C@H](CNC(C4=CC=C(Cl)S4)=O)OC3=O)C=C2)CCOC1,thrombin and Factor Xa,"Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+258,,,OC([C@H](CCC1=CC=CC=C1)N[C@@H](CCCCN)C(N2CCC[C@H]2C(O)=O)=O)=O,ACE,"Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+259,,,FC1=CC(C[C@@H](N)CC(N2CC3=NN=C(C(F)(F)F)N3CC2)=O)=C(F)C=C1F,DPP-4,"Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+260,,,O=C(N[C@@H](CC1=CC=CC=C1)C(N[C@@H](CC(C)C)B(O)O)=O)C2=NC=CN=C2,proteasome,"Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+261,,,O[C@H](CN1[C@H](C(NC(C)(C)C)=O)CC(CCCC2)C2C1)[C@@H](NC([C@@H](NC(C3=CC=C(C=CC=C4)C4=N3)=O)CC(N)=O)=O)CC5=CC=CC=C5,"FDA-approved HIV protease inhibitors:
+Saquinavir 5-25 nM","Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+262,,,CC(C)(NC([C@@H]1CN(CCN1C[C@H](C[C@H](C(N[C@@H]2[C@@H](CC3=CC=CC=C23)O)=O)CC4=CC=CC=C4)O)CC5=CN=CC=C5)=O)C,"FDA-approved HIV protease inhibitors:
+Indinavir 5-30 nM","Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+263,,,CC(C)[C@@H](C(N[C@@H](CC1=CC=CC=C1)C[C@H](O)[C@H](CC2=CC=CC=C2)NC(OCC3=CN=CS3)=O)=O)NC(N(C)CC4=CSC(C(C)C)=N4)=O,"FDA-approved HIV protease inhibitors:
+Ritonavir 40-100 nM","Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+264,,,[H][C@@]12CCCC[C@@]1(CN([C@H](C(NC(C)(C)C)=O)C2)C[C@H]([C@@H](NC(C3=C(C(O)=CC=C3)C)=O)CSC4=CC=CC=C4)O)[H],"FDA-approved HIV protease inhibitors:
+Nelfinavir 3-40 nM","Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+265,,,CC(CN(S(=O)(C1=CC=C(C=C1)N)=O)C[C@H]([C@@H](NC(O[C@H]2CCOC2)=O)CC3=CC=CC=C3)O)C,"FDA-approved HIV protease inhibitors:
+Amprenavir 15-60 nM","Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+266,,,CC(CN(S(=O)(C1=CC=C(C=C1)N)=O)C[C@H]([C@@H](NC(O[C@H]2CCOC2)=O)CC3=CC=CC=C3)OP(O)(O)=O)C,"FDA-approved HIV protease inhibitors:
+Fosamprenavir","Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+267,,,CC([C@@H](C(N[C@@H](CC1=CC=CC=C1)C[C@@H]([C@@H](NC(COC2=C(C=CC=C2C)C)=O)CC3=CC=CC=C3)O)=O)N4CCCNC4=O)C,"FDA-approved HIV protease inhibitors:
+lopinavir,4-11nM","Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+268,,,[H][C@@]12CCO[C@@]1(OC[C@@H]2OC(N[C@H]([C@@H](CN(S(=O)(C3=CC=C(C=C3)N)=O)CC(C)C)O)CC4=CC=CC=C4)=O)[H],"FDA-approved HIV protease inhibitors:
+Darunavir,1-10nM","Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+269,,,O=S(C1=NC=C(C(F)(F)F)C=C1)(NC2=CC=CC([C@@H](CC)C3=C(O)O[C@](CCC)(CCC4=CC=CC=C4)CC3=O)=C2)=O,"FDA-approved HIV protease inhibitors:
+Tipranavir,30-70 nM","Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+270,,,CC(N[C@@H](C(C)(C)C)C(NC(CC1=CC=CC=C1)[C@H](O)CN(CC2=CC=C(C3=NC=CC=C3)C=C2)NC([C@H](C(C)(C)C)NC(OC)=O)=O)=O)=O,"FDA-approved HIV protease inhibitors:
+Atazanavir,2-5 nM","Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+271,,,[H][C@@]12CCC[C@@]1([C@@H](C(N[C@H](C(C(NC3CC3)=O)=O)CCC)=O)N(C([C@H](C(C)(C)C)NC([C@H](C4CCCCC4)NC(C5=NC=CN=C5)=O)=O)=O)C2)[H],"FDA-approved HCV protease inhibitors:Telaprevir,300 Nm","Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+272,,,[H][C@]12CN(C([C@H](C(C)(C)C)NC(NC(C)(C)C)=O)=O)[C@@H]([C@]1(C2(C)C)[H])C(NC(C(C(N)=O)=O)CC3CCC3)=O,FDA-approved HCV protease inhibitors:Boceprevir?200-400 nM,"Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+273,,,[H][C@]12C[C@@]1(C(NS(=O)(C3CC3)=O)=O)NC([C@@]4(CC(OC5=CC(C6=NC(C(C)C)=CS6)=NC7=C(C(OC)=CC=C57)C)C[C@]4(C(N(CCCC/C=C\2)C)=O)[H])[H])=O,FDA-approved HCV protease inhibitors:Simeprevir:5-15 nM,"Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+274,,,[H][C@@]12C[C@@]1([H])OC(N[C@](C(C)(C)C)([H])C(N3C[C@@](OC4=C(CCCCC2)N=C5C=CC(OC)=CC5=N4)([H])C[C@@]3([H])C(N[C@@]6(C[C@@]6([H])C=C)C(NS(=O)(C7CC7)=O)=O)=O)=O)=O,"FDA-approved HCV protease inhibitors:Grazoprevir,0.3-5 nM","Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+275,,,[H][C@]12C[C@@]1(C(NS(=O)(C3CC3)=O)=O)NC([C@@]4(C[C@@H](OC5=NC6=CC=CC=C6C7=CC=CC=C57)CN4C([C@@H](NC(C8=NC=C(N=C8)C)=O)CCCCC/C=C\2)=O)[H])=O,FDA-approved HCV protease inhibitors:Paritaprevir:0.2-2 nM,"Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+276,,,O=C([C@H]1N2C([C@H](C(C)(C)C)NC(O[C@]3([H])C[C@@]3([H])CCCCC(F)(F)C4=NC5=C(C=C(OC)C=C5)N=C4O[C@](C2)([H])[C@H]1CC)=O)=O)N[C@@]6(C(NS(=O)(C7(C)CC7)=O)=O)[C@H](C(F)F)C6,FDA-approved HCV protease inhibitors:Voxilaprevir:0.002-6 nM,"Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+277,,,O=C([C@H]1N2C([C@H](C(C)(C)C)NC(O[C@]3([H])CCC[C@@]3([H])OC/C=C/C(F)(F)C4=NC5=CC=CC=C5N=C4O[C@](C2)([H])C1)=O)=O)N[C@@]6(C(NS(=O)(C7(C)CC7)=O)=O)[C@H](C(F)F)C6,FDA-approved HCV protease inhibitors:Glecaprevir:0.08-5 nM,"Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+278,,,O=C1[C@H](C[C@H](NC([C@@H](NC(OCC2=CC=CC(Cl)=C2)=O)CC3CCCCC3)=O)C([H])=O)CCN1,ED50=20 nM,"J. Med. Chem. 2015, 58, 3144–3155",
+279,,,O=C1[C@H](C[C@H](NC([C@@H](NC(OCC2=CC=CC=C2)=O)CC3CCCCC3)=O)C([H])=O)CCN1,EC50=0.06 ?M,"Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
+280,,,O=C1[C@H](C[C@H](NC([C@@H](NC(OCC2=CC=CC=C2)=O)CC(C)C)=O)C([H])=O)CCN1,EC50=2 ?M,"Chang, Kyeong-Ok, et al. ""Antiviral drug discovery: norovirus proteases and development of inhibitors."" Viruses 11.2 (2019): 197.",
